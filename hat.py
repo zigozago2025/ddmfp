@@ -10,6 +10,8 @@ import time
 import html
 from urllib.parse import urljoin
 
+MFPLINK = "LINKMFP"
+
 # Funzioni dal tuo mpd_decoder.py
 def extract_mpd_link_from_page(url):
     """Estrae il link MPD da una pagina HTML che contiene un iframe con player.html#"""
@@ -60,7 +62,7 @@ def decode_base64_keys(encoded_string):
 
 def generate_proxy_url(mpd_link, key1, key2, api_password="mfp"):
     """Genera l'URL proxy con i parametri richiesti"""
-    base_url = "https://mfp.pibuco.duckdns.org/proxy/mpd/manifest.m3u8"
+    base_url = f"{MFPLINK}/proxy/mpd/manifest.m3u8"
     
     # Rimuovi il parametro ck= dall'URL MPD prima di codificarlo
     mpd_base = mpd_link.split('?ck=')[0] if '?ck=' in mpd_link else mpd_link
