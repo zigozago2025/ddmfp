@@ -2,6 +2,8 @@
 
 Questo repository contiene script Python per generare automaticamente liste M3U di canali televisivi italiani, con un focus sugli eventi sportivi e la possibilità di utilizzare un proxy per una maggiore stabilità dei flussi.
 
+**ASSICURARSI DI AVERE ULTIMA VERSIONE DI MFP UNHIDED**
+
 ## ✨ Liste M3U Disponibili
 
 Una volta configurati ed eseguiti gli script e i workflow GitHub Actions, avrai a disposizione le seguenti liste:
