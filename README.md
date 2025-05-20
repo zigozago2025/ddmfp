@@ -18,7 +18,8 @@ Una volta configurati ed eseguiti gli script e i workflow GitHub Actions, avrai 
     *   `fullita.m3u8`
 *   🌍 **TUTTI gli Eventi Sportivi (Molto Estesa):**
     *   `onlyevents.m3u8`
-
+*   🌍 **TUTTE le liste in un file solo:**
+    *   `listone.m3u8`
 ---
 
 ## 🛠️ Configurazione Iniziale degli Script
@@ -56,6 +57,16 @@ MFPLINK = "inserisci url del tuo mfp (sempre formato embed)"     # non mettere l
 MFPPSW = "inserisci password del tuo mfp"
 ```
 
+### 3. Script Basato su Hattr1ck
+
+Modifica lo script:
+
+- hat.py
+All'interno di questo file, individua e modifica le seguenti righe:
+
+```python
+MFPLINK = "inserisci url del tuo mfp (sempre formato embed)"     # non mettere lo / finale al link
+```
 
   
 ## ⚙️ Configurazione e Esecuzione dei Workflow GitHub Actions
@@ -85,6 +96,8 @@ Torna alla sezione Actions . Esegui i workflow nel seguente ordine:
    - Se desideri la lista con TUTTI gli eventi sportivi (molto estesa e potenzialmente con sport di nicchia), esegui anche questo workflow dopo il completamento degli altri.
 Attendi che tutti i workflow selezionati abbiano una spunta verde ✅. Questo indica che le liste M3U sono state generate e aggiornate nel tuo repository.
 
+## 🔗 Usare la lista con OMG
+Per utilizzare le liste generate basta andare ad inserire il link raw del file listone.m3u8
 
 ## 🔗 Creare una Lista M3U Unica con GitHub Gist
 Per utilizzare facilmente le tue liste M3U generate (ad esempio con l'applicazione OMG), puoi raggrupparle in un unico file Gist:
