@@ -6,6 +6,9 @@ import re
 from bs4 import BeautifulSoup
 import time
 
+GUARCAL = "blog"
+DADDY= "dad"
+
 def html_to_json(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     result = {}
@@ -87,7 +90,7 @@ def modify_json_file(json_file_path):
     print(f"File JSON modificato e salvato in {json_file_path}")
 
 def extract_schedule_container(max_retries=3, retry_delay=5):
-    url = "https://daddylive.dad/"
+    url = f"https://daddylive.{DADDY}/"
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
     json_output = os.path.join(script_dir, "daddyliveSchedule.json")
@@ -182,25 +185,14 @@ def extract_schedule_container(max_retries=3, retry_delay=5):
 
 def extract_guardacalcio_image_links(max_retries=3, retry_delay=5):
     """
-    Utilizza Playwright per scaricare i link delle immagini dalla pagina di guardacalcio.icu
+    Utilizza Playwright per scaricare i link delle immagini dalla pagina di guardacalcio
     e li salva in un file.
     """
-    url = "https://guardacalcio.icu/partite-streaming.html"
+    url = f"https://guardacalcio.{GUARCAL}/partite-streaming.html"
     
     script_dir = os.path.dirname(os.path.abspath(__file__))
     # File di output per i link delle immagini
     image_links_output = os.path.join(script_dir, "guardacalcio_image_links.txt") 
-
-    # Aggiungi questo blocco per cancellare il file esistente
-    if os.path.exists(image_links_output):
-        print(f"Cancellazione del file esistente: {image_links_output}")
-        try:
-            os.remove(image_links_output)
-            print("File cancellato con successo.")
-        except OSError as e:
-            print(f"Errore durante la cancellazione del file {image_links_output}: {e}")
-            # Decidi se vuoi continuare o uscire in caso di errore di cancellazione
-            # Per ora, continuiamo ma stampiamo l'errore.
 
     print(f"Accesso alla pagina {url} per estrarre i link delle immagini...")
 
@@ -261,7 +253,7 @@ def extract_guardacalcio_image_links(max_retries=3, retry_delay=5):
                             extracted_links.append(src)
                         else:
                             # Costruisci URL assoluto
-                            base_url = "https://guardacalcio.icu"
+                            base_url = f"https://guardacalcio.{GUARCAL}"
                             if src.startswith('/'):
                                 extracted_links.append(base_url + src)
                             else:
