@@ -1,37 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Italy - Serie C - Vicenza vs Crotone" tvg-name="19:00 Italy - Serie C : Vicenza vs Crotone - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 252 IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Derry City vs Shamrock Rovers" tvg-name="19:45 Ireland Republic - Premier Division : Derry City vs Shamrock Rovers - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
+/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-107.php&redirect_stream=true&api_password=
 
-#EXTINF:-1 tvg-id="Italy - Serie C - Ternana vs Giana Erminio" tvg-name="19:00 Italy - Serie C : Ternana vs Giana Erminio - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 255 IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-5.php&redirect_stream=true&api_password=
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Drogheda United vs Bohemians" tvg-name="19:45 Ireland Republic - Premier Division : Drogheda United vs Bohemians - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
+/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-108.php&redirect_stream=true&api_password=
 
-#EXTINF:-1 tvg-id="Italy - Serie C - Audace Cerignola vs Atalanta II" tvg-name="19:00 Italy - Serie C : Audace Cerignola vs Atalanta II - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 253 IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-6.php&redirect_stream=true&api_password=
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Galway United vs Cork City" tvg-name="19:45 Ireland Republic - Premier Division : Galway United vs Cork City - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
+/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-109.php&redirect_stream=true&api_password=
 
-#EXTINF:-1 tvg-id="Italy - Serie C - Pescara vs Vis Pesaro" tvg-name="19:00 Italy - Serie C : Pescara vs Vis Pesaro - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 254 IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-7.php&redirect_stream=true&api_password=
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Shelbourne vs Sligo Rovers" tvg-name="19:45 Ireland Republic - Premier Division : Shelbourne vs Sligo Rovers - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
+/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-110.php&redirect_stream=true&api_password=
 
-#EXTINF:-1 tvg-id="Italy - Serie B - Juve Stabia vs Cremonese" tvg-name="19:30 Italy - Serie B : Juve Stabia vs Cremonese - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Italia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-77.php&redirect_stream=true&api_password=
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - St Patrick's vs Waterford United" tvg-name="19:45 Ireland Republic - Premier Division : St Patrick's vs Waterford United - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
+/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-151.php&redirect_stream=true&api_password=
 
-#EXTINF:-1 tvg-id="Italy - Serie B - Catanzaro vs Spezia" tvg-name="19:30 Italy - Serie B : Catanzaro vs Spezia - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Italia
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-86.php&redirect_stream=true&api_password=
+#EXTINF:-1 tvg-id="Italy - Serie A - Como vs Internazionale" tvg-name="19:45 Italy - Serie A : Como vs Internazionale - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN IT
+/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-55.php&redirect_stream=true&api_password=
 
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV8 IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10.php&redirect_stream=true&api_password=
+#EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Cagliari" tvg-name="19:45 Italy - Serie A : Napoli vs Cagliari - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN IT
+/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-59.php&redirect_stream=true&api_password=
 
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 251 IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-12.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="UEFA Europa League Final - Tottenham Hotspur vs Manchester United" tvg-name="20:00 UEFA Europa League Final : Tottenham Hotspur vs Manchester United - 21/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Uno IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-461.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Bundesliga - Heidenheim vs Elversberg" tvg-name="19:30 Bundesliga : Heidenheim vs Elversberg - 22/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=
-
-#EXTINF:-1 tvg-id="Lega A - Pallacanestro Reggiana vs. Trapani Shark" tvg-name="19:00 Lega A : Pallacanestro Reggiana vs. Trapani Shark - 22/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
-/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=
+#EXTINF:-1 tvg-id="Women's Friendly tournament in Koszalin - Italy vs Netherlands" tvg-name="19:00 Women's Friendly tournament in Koszalin : Italy vs Netherlands - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Rai Sport 1 Italy
+/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=
 
