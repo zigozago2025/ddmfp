@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Italy Serie B - Cremonese vs Spezia" tvg-name="19:30 Italy Serie B : Cremonese vs Spezia - 29/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-12.php&redirect_stream=true&api_password=Cuca1989!
-
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Bohemians vs Derry City" tvg-name="19:45 Ireland Republic - Premier Division : Bohemians vs Derry City - 30/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-151.php&redirect_stream=true&api_password=Cuca1989!
 
