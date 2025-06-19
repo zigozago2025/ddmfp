@@ -2,3 +2,12 @@
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Al Ain vs Juventus" tvg-name="02:00 FIFA Club World Cup : Al Ain vs Juventus - 18/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Italia 1
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=Cuca1989!
 
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Inter Miami vs Porto" tvg-name="20:00 FIFA Club World Cup : Inter Miami vs Porto - 19/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Italia 1 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-5.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Lega A - Brescia vs Virtus Bologna" tvg-name="19:30 Lega A : Brescia vs Virtus Bologna - 19/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 1 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Eurobasket Women - Italy W vs Slovenia W" tvg-name="20:00 Eurobasket Women : Italy W vs Slovenia W - 19/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Rai Sport 1 Italy
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
+
