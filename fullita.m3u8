@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA Euro U-21 - Portugal U21 vs Netherlands U21" tvg-name="17:00 UEFA Euro U-21 : Portugal U21 vs Netherlands U21 - 21/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI Sport 1 IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Urawa Reds" tvg-name="20:00 FIFA Club World Cup : Internazionale vs Urawa Reds - 21/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canale 5 IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Spain - Segunda Division - Real Oviedo vs Mirandés" tvg-name="20:00 Spain - Segunda Division : Real Oviedo vs Mirandés - 21/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Zona DAZN IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Eurobasket Women - Italy W vs Lithuania W" tvg-name="20:00 Eurobasket Women : Italy W vs Lithuania W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Rai Sport 1 Italy HD
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
-
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Juventus vs Wydad Casablanca" tvg-name="17:00 FIFA Club World Cup : Juventus vs Wydad Casablanca - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Italia 1 IT
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-2.php&redirect_stream=true&api_password=Cuca1989!
 
