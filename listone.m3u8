@@ -792,7 +792,13 @@ https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddyliv
 https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9&api_password=Cuca1989!
 #EXTINF:-1 tvg-id="" tvg-name="live5 " tvg-logo="" group-title="Altro", live5 (H)
 https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28italia1%29/manifest.mpd&key_id=b2ac62177a11407290722302e1e3a32c&key=51a4c173aa6cdf1f169b57602fee1c44&api_password=Cuca1989!
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Benfica vs Bayern München - 24/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750759234_benfica-x-bayern-mnchen.jpg" group-title="Soccer", SuperSport Premier League
+
+# Canali aggiunti da Hattrick
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport", Sky Sport MotoGP (Hd)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="" tvg-name="live5 " tvg-logo="" group-title="Altro", live5 (H)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28italia1%29/manifest.mpd&key_id=b2ac62177a11407290722302e1e3a32c&key=51a4c173aa6cdf1f169b57602fee1c44&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Benfica vs Bayern München - 24/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=Cuca1989!
 
 #EXTINF:-1 tvg-id="Ecuador Serie B - 22 de Julio vs San Antonio" tvg-name="22:30 Ecuador Serie B : 22 de Julio vs San Antonio - 24/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal del Futbol
@@ -801,7 +807,7 @@ https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddyliv
 #EXTINF:-1 tvg-id="Ecuador Serie B - Leones del Norte vs Vargas Torres" tvg-name="02:00 Ecuador Serie B : Leones del Norte vs Vargas Torres - 24/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal del Futbol
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-26.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - ES Tunis vs Chelsea" tvg-name="03:00 FIFA Club World Cup : ES Tunis vs Chelsea - 24/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750759153_es-tunis-x-chelsea.png" group-title="Soccer", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - ES Tunis vs Chelsea" tvg-name="03:00 FIFA Club World Cup : ES Tunis vs Chelsea - 24/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=Cuca1989!
 
 #EXTINF:-1 tvg-id="WIMBLEDON - QUALIFYING - Boisson L. vs Branstine C." tvg-name="08:30 WIMBLEDON - QUALIFYING : Boisson L. vs Branstine C. - 24/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WIMBLEDON - QUALIFYING", Tennis Stream 10
@@ -1050,7 +1056,7 @@ https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddyliv
 #EXTINF:-1 tvg-id="Women's 3x3 Basketball - Mongolia Australia vs Madagascar, China vs Poland" tvg-name="04:55 Women's 3x3 Basketball : Mongolia Australia vs Madagascar, China vs Poland - 24/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TVP Sport Poland
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-128.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Mamelodi Sundowns vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Mamelodi Sundowns vs Fluminense - 25/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Mamelodi Sundowns vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Mamelodi Sundowns vs Fluminense - 25/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750846576_mamelodi-sundowns-x-fluminense.jpg" group-title="Soccer", SuperSport Premier League
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=Cuca1989!
 
 #EXTINF:-1 tvg-id="Ecuador Serie B - Chacaritas vs Independiente Juniors" tvg-name="22:30 Ecuador Serie B : Chacaritas vs Independiente Juniors - 25/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal del Futbol
@@ -1059,7 +1065,7 @@ https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddyliv
 #EXTINF:-1 tvg-id="Ecuador Serie B - Imbabura vs Cumbayá" tvg-name="02:00 Ecuador Serie B : Imbabura vs Cumbayá - 25/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal del Futbol
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-22.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs River Plate" tvg-name="03:00 FIFA Club World Cup : Internazionale vs River Plate - 25/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs River Plate" tvg-name="03:00 FIFA Club World Cup : Internazionale vs River Plate - 25/06/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-06/1750846541_internazionale-x-river-plate.jpg" group-title="Soccer", SuperSport Premier League
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=Cuca1989!
 
 #EXTINF:-1 tvg-id="WIMBLEDON - QUALIFYING - Peniston R. vs Landaluce M." tvg-name="08:30 WIMBLEDON - QUALIFYING : Peniston R. vs Landaluce M. - 25/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WIMBLEDON - QUALIFYING", Tennis Stream 10
