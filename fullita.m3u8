@@ -2,3 +2,15 @@
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Real Madrid vs Juventus" tvg-name="20:00 FIFA Club World Cup : Real Madrid vs Juventus - 01/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canale 5 IT
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-2.php&redirect_stream=true&api_password=Cuca1989!
 
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Iceland vs Finland" tvg-name="17:00 UEFA Women's Euro : Iceland vs Finland - 02/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ITV 1 UK
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-350.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Iceland vs Finland" tvg-name="17:00 UEFA Women's Euro : Iceland vs Finland - 02/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RSI La 2 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-5.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Switzerland vs Norway" tvg-name="20:00 UEFA Women's Euro : Switzerland vs Norway - 02/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Rai Sport 1 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Switzerland vs Norway" tvg-name="20:00 UEFA Women's Euro : Switzerland vs Norway - 02/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RSI La 2 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-5.php&redirect_stream=true&api_password=Cuca1989!
+
