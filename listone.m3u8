@@ -850,369 +850,22 @@ https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin
 https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportf1%29/master_2hr-aac.mpd%3F%26ck%3DMTExODk3ZDUxMGFjMGZlZDBkNWQwNTBlZjU0YjViZDY6N2RhODVmNzI0NTg3YjlkOGE4NTA5NTY1MzQyMWVlMTA%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111897d510ac0fed0d5d050ef54b5bd6&key=7da85f724587b9d8a85095653421ee10&api_password=Cuca1989!
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", Sky Sport F1 (H)
 https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportf1%29/master_2hr-aac.mpd&key_id=111897d510ac0fed0d5d050ef54b5bd6&key=7da85f724587b9d8a85095653421ee10&api_password=Cuca1989!
-#EXTINF:-1 tvg-id="UEFA Champions League - Iberia 1999 vs Malmö" tvg-name="18:00 UEFA Champions League : Iberia 1999 vs Malmö - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 1TV Georgia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-12.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="UEFA Champions League - Olimpija vs Kairat" tvg-name="19:00 UEFA Champions League : Olimpija vs Kairat - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Kanal A Slovenia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-13.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - The New Saints vs Škendija 79" tvg-name="20:00 UEFA Champions League : The New Saints vs Škendija 79 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", S4C UK
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-670.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Fluminense vs Chelsea" tvg-name="21:00 FIFA Club World Cup : Fluminense vs Chelsea - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Wimbledon Press Conferences" tvg-name="06:17 ATP - WIMBLEDON : Wimbledon Press Conferences - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - WIMBLEDON", Tennis Stream 26
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fritz T. vs Khachanov K." tvg-name="14:00 ATP - WIMBLEDON : Fritz T. vs Khachanov K. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - WIMBLEDON", Tennis Stream 1
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fritz T. vs Khachanov K." tvg-name="14:00 ATP - WIMBLEDON : Fritz T. vs Khachanov K. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - WIMBLEDON", Tennis Stream 21
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Norrie C. vs Alcaraz C." tvg-name="16:00 ATP - WIMBLEDON : Norrie C. vs Alcaraz C. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - WIMBLEDON", Tennis Stream 11
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Norrie C. vs Alcaraz C." tvg-name="16:00 ATP - WIMBLEDON : Norrie C. vs Alcaraz C. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - WIMBLEDON", Tennis Stream 31
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Wimbledon Highlight Show" tvg-name="23:00 ATP - WIMBLEDON : Wimbledon Highlight Show - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - WIMBLEDON", Tennis Stream 25
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Sabalenka A. vs Siegemund L." tvg-name="14:30 WTA - WIMBLEDON : Sabalenka A. vs Siegemund L. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WIMBLEDON", Tennis Stream 11
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Sabalenka A. vs Siegemund L." tvg-name="14:30 WTA - WIMBLEDON : Sabalenka A. vs Siegemund L. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WIMBLEDON", Tennis Stream 31
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Anisimova A. vs Pavlyuchenkova A." tvg-name="16:00 WTA - WIMBLEDON : Anisimova A. vs Pavlyuchenkova A. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WIMBLEDON", Tennis Stream 1
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Anisimova A. vs Pavlyuchenkova A." tvg-name="16:00 WTA - WIMBLEDON : Anisimova A. vs Pavlyuchenkova A. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WIMBLEDON", Tennis Stream 21
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Hijikata R./Pel D. vs Matos R./Melo M." tvg-name="12:00 ATP DOUBLES - WIMBLEDON : Hijikata R./Pel D. vs Matos R./Melo M. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP DOUBLES - WIMBLEDON", Tennis Stream 2
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Hijikata R./Pel D. vs Matos R./Melo M." tvg-name="12:00 ATP DOUBLES - WIMBLEDON : Hijikata R./Pel D. vs Matos R./Melo M. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP DOUBLES - WIMBLEDON", Tennis Stream 22
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Arevalo M./Pavic M. vs Nys H./Roger-Vasselin E." tvg-name="13:30 ATP DOUBLES - WIMBLEDON : Arevalo M./Pavic M. vs Nys H./Roger-Vasselin E. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP DOUBLES - WIMBLEDON", Tennis Stream 12
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Arevalo M./Pavic M. vs Nys H./Roger-Vasselin E." tvg-name="13:30 ATP DOUBLES - WIMBLEDON : Arevalo M./Pavic M. vs Nys H./Roger-Vasselin E. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP DOUBLES - WIMBLEDON", Tennis Stream 32
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Gadecki O./Krawczyk D. vs Dolehide C./Kenin S." tvg-name="14:00 WTA DOUBLES - WIMBLEDON : Gadecki O./Krawczyk D. vs Dolehide C./Kenin S. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA DOUBLES - WIMBLEDON", Tennis Stream 2
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Gadecki O./Krawczyk D. vs Dolehide C./Kenin S." tvg-name="14:00 WTA DOUBLES - WIMBLEDON : Gadecki O./Krawczyk D. vs Dolehide C./Kenin S. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA DOUBLES - WIMBLEDON", Tennis Stream 22
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Kudermetova V./Mertens E. vs Dabrowski G./Routliffe E." tvg-name="18:00 WTA DOUBLES - WIMBLEDON : Kudermetova V./Mertens E. vs Dabrowski G./Routliffe E. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA DOUBLES - WIMBLEDON", Tennis Stream 2
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Kudermetova V./Mertens E. vs Dabrowski G./Routliffe E." tvg-name="18:00 WTA DOUBLES - WIMBLEDON : Kudermetova V./Mertens E. vs Dabrowski G./Routliffe E. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA DOUBLES - WIMBLEDON", Tennis Stream 22
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="MIXED DOUBLES - WIMBLEDON - Verbeek S./Siniakova K. vs Pavic M./Babos T." tvg-name="16:30 MIXED DOUBLES - WIMBLEDON : Verbeek S./Siniakova K. vs Pavic M./Babos T. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis MIXED DOUBLES - WIMBLEDON", Tennis Stream 12
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="MIXED DOUBLES - WIMBLEDON - Verbeek S./Siniakova K. vs Pavic M./Babos T." tvg-name="16:30 MIXED DOUBLES - WIMBLEDON : Verbeek S./Siniakova K. vs Pavic M./Babos T. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis MIXED DOUBLES - WIMBLEDON", Tennis Stream 32
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="MIXED DOUBLES - WIMBLEDON - Salisbury J./Stefani L. vs Arevalo M./Zhang S." tvg-name="18:00 MIXED DOUBLES - WIMBLEDON : Salisbury J./Stefani L. vs Arevalo M./Zhang S. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis MIXED DOUBLES - WIMBLEDON", Tennis Stream 16
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="MIXED DOUBLES - WIMBLEDON - Salisbury J./Stefani L. vs Arevalo M./Zhang S." tvg-name="18:00 MIXED DOUBLES - WIMBLEDON : Salisbury J./Stefani L. vs Arevalo M./Zhang S. - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis MIXED DOUBLES - WIMBLEDON", Tennis Stream 36
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - CNo. 2 Court" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : CNo. 2 Court - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 2
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - No. 3 Court" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : No. 3 Court - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 3
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 4" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 4 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 4
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 4" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 4 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 4
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 4" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 4 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 4
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 5" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 5 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 5
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 6" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 6 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 6
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 7" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 7 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 7
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 8" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 8 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 8
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 9" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 9 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 9
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 10" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 10 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 10
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 11" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 11 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 11
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 12" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 12 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 12
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 14" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 14 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 14
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 15" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 15 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 15
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 16" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 16 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 16
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 17" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 17 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 17
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 18" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 18 - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 18
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC ONE UK
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-356.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC Two UK
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-357.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-40.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-44.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-45.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-111.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-113.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", RDS CA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-839.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-46.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-701.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 3 Poland
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-129.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-393.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-396.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 4 Cyprus
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-914.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-915.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 6 Cyprus
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-916.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports Prime Greece
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-638.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports 6 Greece
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-636.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-438.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 3 Spain
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-526.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 4 Spain
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-527.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TRT Spor Turkey
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-889.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SRF Zwei
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-262.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-150.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 1 Premium
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 2 Premium
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Brazil
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-82.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 4 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 France
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-116.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 5 France
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-495.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 6 France
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-496.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 7 France
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-497.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 8 France
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-498.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Poland
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-57.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-524.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-772.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-231.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Italy
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-772.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Greece
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-41.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-58.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Spain
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-525.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-773.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-773.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-42.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Canal+ Sport 5 Afrique
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-490.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 6 Arabic
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-96.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 7 Arabic
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-97.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 9 Arabic
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-99.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Plus Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Live Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Star Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-147.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Washington Mystics W" tvg-name="17:30 WNBA : Chicago Sky W vs Washington Mystics W - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Monumental Sports Network
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-778.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Utah Summer League - Philadelphia 76ers vs Memphis Grizzlies" tvg-name="01:00 NBA Utah Summer League : Philadelphia 76ers vs Memphis Grizzlies - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Utah Summer League - Philadelphia 76ers vs Memphis Grizzlies" tvg-name="01:00 NBA Utah Summer League : Philadelphia 76ers vs Memphis Grizzlies - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network South
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-903.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Utah Summer League - Philadelphia 76ers vs Memphis Grizzlies" tvg-name="01:00 NBA Utah Summer League : Philadelphia 76ers vs Memphis Grizzlies - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Las Vegas Aces W" tvg-name="02:00 WNBA : New York Liberty W vs Las Vegas Aces W - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-44.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Las Vegas Aces W" tvg-name="02:00 WNBA : New York Liberty W vs Las Vegas Aces W - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN3
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-113.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Las Vegas Aces W" tvg-name="02:00 WNBA : New York Liberty W vs Las Vegas Aces W - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN1
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-111.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Las Vegas Aces W" tvg-name="02:00 WNBA : New York Liberty W vs Las Vegas Aces W - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-114.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Las Vegas Aces W" tvg-name="02:00 WNBA : New York Liberty W vs Las Vegas Aces W - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 Argentina
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-150.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Las Vegas Aces W" tvg-name="02:00 WNBA : New York Liberty W vs Las Vegas Aces W - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN Deportes
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-375.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Utah Summer League - Utah Jazz vs Oklahoma City Thunder" tvg-name="03:00 NBA Utah Summer League : Utah Jazz vs Oklahoma City Thunder - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Utah Summer League - Utah Jazz vs Oklahoma City Thunder" tvg-name="03:00 NBA Utah Summer League : Utah Jazz vs Oklahoma City Thunder - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Sacramento Summer League - San Antonio Spurs vs Los Angeles Lakers" tvg-name="04:00 NBA Sacramento Summer League : San Antonio Spurs vs Los Angeles Lakers - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBCS Bay Area
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-753.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Sacramento Summer League - San Antonio Spurs vs Los Angeles Lakers" tvg-name="04:00 NBA Sacramento Summer League : San Antonio Spurs vs Los Angeles Lakers - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-44.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Sacramento Summer League - San Antonio Spurs vs Los Angeles Lakers" tvg-name="04:00 NBA Sacramento Summer League : San Antonio Spurs vs Los Angeles Lakers - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 Argentina
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-150.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="World Cup 2025-Lonato del Garda - Women's Skeet" tvg-name="14:45 World Cup 2025-Lonato del Garda: Women's Skeet - 08/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Shooting", RAI Sport 1 Italy
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
-
+# Canali aggiunti da Hattrick
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", Sky Sport UNO (H)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportuno%29/master_2hr-aac.mpd&key_id=1118b95f9878e87a0176a2a663bf8fb6&key=518c6f17f6e37f2d3a0e407a180bf01a&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", Sky Sport Tennis (Hd)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysporttennis%29/master_2hr-aac.mpd%3F%26ck%3DMTExODYyZDI3YzEwNzM2OThkNmVjNWJiYzMyOGZjNGM6Nzc3ZWM5MGZjM2NkYzZjZWMxYjk2M2VmMTQ3NjBlZjE%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111862d27c1073698d6ec5bbc328fc4c&key=777ec90fc3cdc6cec1b963ef14760ef1&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", Sky Sport Tennis (H)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysporttennis%29/master_2hr-aac.mpd&key_id=111862d27c1073698d6ec5bbc328fc4c&key=777ec90fc3cdc6cec1b963ef14760ef1&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport", Sky Sport Arena (Hd)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportarena%29/master_2hr-aac.mpd%3F%26ck%3DMTExODk0ZGZhZWNmYzY0YWNmMTE0YjAyNmIxYjA2ZmY6ZDFhMTQ5ODc5YTE3ZjEzZjJkNThiN2FkZTVkOGEwNjY%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111894dfaecfc64acf114b026b1b06ff&key=d1a149879a17f13f2d58b7ade5d8a066&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport", Sky Sport MotoGP (Hd)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", Sky Sport F1 (Hd)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportf1%29/master_2hr-aac.mpd%3F%26ck%3DMTExODk3ZDUxMGFjMGZlZDBkNWQwNTBlZjU0YjViZDY6N2RhODVmNzI0NTg3YjlkOGE4NTA5NTY1MzQyMWVlMTA%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111897d510ac0fed0d5d050ef54b5bd6&key=7da85f724587b9d8a85095653421ee10&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", Sky Sport F1 (H)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportf1%29/master_2hr-aac.mpd&key_id=111897d510ac0fed0d5d050ef54b5bd6&key=7da85f724587b9d8a85095653421ee10&api_password=Cuca1989!
 #EXTINF:-1 tvg-id="UEFA Champions League - Ludogorets vs Dinamo Minsk" tvg-name="19:30 UEFA Champions League : Ludogorets vs Dinamo Minsk - 09/07/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-07/1752049564_calcio.jpg" group-title="Soccer", Diema Sport Bulgaria
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-465.php&redirect_stream=true&api_password=Cuca1989!
 
@@ -1234,7 +887,7 @@ https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddyliv
 #EXTINF:-1 tvg-id="FIFA Club World Cup Semi Final 2 - PSG vs Real Madrid" tvg-name="21:00 FIFA Club World Cup Semi Final 2 : PSG vs Real Madrid - 09/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport La Liga
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-415.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Wimbledon Press Conferences" tvg-name="06:17 ATP - WIMBLEDON : Wimbledon Press Conferences - 09/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - WIMBLEDON", Tennis Stream 26
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Wimbledon Press Conferences" tvg-name="04:30 ATP - WIMBLEDON : Wimbledon Press Conferences - 09/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - WIMBLEDON", Tennis Stream 26
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Sinner J. vs Shelton B." tvg-name="15:30 ATP - WIMBLEDON : Sinner J. vs Shelton B. - 09/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - WIMBLEDON", Tennis Stream 1
@@ -1613,5 +1266,482 @@ https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddyliv
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-397.php&redirect_stream=true&api_password=Cuca1989!
 
 #EXTINF:-1 tvg-id="Nations League Women - Thailand W vs USA W" tvg-name="02:30 Nations League Women : Thailand W vs USA W - 09/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 3 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Europa League - AEK Larnaca vs Partizan" tvg-name="18:30 UEFA Europa League : AEK Larnaca vs Partizan - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 1 Cyprus
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-911.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Europa League - AEK Larnaca vs Partizan" tvg-name="18:30 UEFA Europa League : AEK Larnaca vs Partizan - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RTS 1 Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Europa League - AEK Larnaca vs Partizan" tvg-name="18:30 UEFA Europa League : AEK Larnaca vs Partizan - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 3 Premium Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Europa League - AEK Larnaca vs Partizan" tvg-name="18:30 UEFA Europa League : AEK Larnaca vs Partizan - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Slovakia HD
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-22.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Europa League - Paksi SE vs CFR Cluj" tvg-name="19:00 UEFA Europa League : Paksi SE vs CFR Cluj - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", M4 Sports Hungary
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-265.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Europa League - Paksi SE vs CFR Cluj" tvg-name="19:00 UEFA Europa League : Paksi SE vs CFR Cluj - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 1 Romania
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-400.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Europa League - Paksi SE vs CFR Cluj" tvg-name="19:00 UEFA Europa League : Paksi SE vs CFR Cluj - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 1 Romania
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-583.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Europa League - Levski Sofia vs Hapoel Be'er Sheva" tvg-name="19:30 UEFA Europa League : Levski Sofia vs Hapoel Be'er Sheva - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Diema Sport Bulgaria
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-465.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Europa League - Levski Sofia vs Hapoel Be'er Sheva" tvg-name="19:30 UEFA Europa League : Levski Sofia vs Hapoel Be'er Sheva - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 1 Israel
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-140.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Europa League - Spartak Trnava vs Häcken" tvg-name="20:15 UEFA Europa League : Spartak Trnava vs Häcken - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RTVS Sport Slovakia HD
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-3.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Conference League - Malisheva vs Víkingur Reykjavík" tvg-name="20:15 UEFA Conference League : Malisheva vs Víkingur Reykjavík - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SÝN Sport 5 Iceland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-2.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Conference League - Željezničar vs Koper" tvg-name="20:30 UEFA Conference League : Željezničar vs Koper - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ŠTV 1 Slovenia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-23.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Conference League - Željezničar vs Koper" tvg-name="20:30 UEFA Conference League : Željezničar vs Koper - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 3 Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-431.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Conference League - Vardar vs La Fiorita" tvg-name="20:30 UEFA Conference League : Vardar vs La Fiorita - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MRT2 Macedonia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Europa League - Legia Warszawa vs Aktobe" tvg-name="21:00 UEFA Europa League : Legia Warszawa vs Aktobe - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TVP Sport Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-128.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Europa League - Legia Warszawa vs Aktobe" tvg-name="21:00 UEFA Europa League : Legia Warszawa vs Aktobe - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Slovakia HD
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-22.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Conference League - Borac Banja Luka vs FC Santa Coloma" tvg-name="21:00 UEFA Conference League : Borac Banja Luka vs FC Santa Coloma - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 2 Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-430.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Conference League - Larne vs Auda" tvg-name="21:00 UEFA Conference League : Larne vs Auda - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Latvia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-59.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Conference League - Valur vs Flora" tvg-name="22:00 UEFA Conference League : Valur vs Flora - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SÝN Sport 1 Iceland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Ecuador - Serie B - Chacaritas vs Atlético Vinotinto" tvg-name="22:30 Ecuador - Serie B : Chacaritas vs Atlético Vinotinto - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal del Futbol
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-68.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Ecuador - Serie B - Nueve de Octubre vs Vargas Torres" tvg-name="02:00 Ecuador - Serie B : Nueve de Octubre vs Vargas Torres - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal del Futbol
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-68.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Brazil - Serie B - CRB vs Coritiba" tvg-name="02:35 Brazil - Serie B : CRB vs Coritiba - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Sabalenka A. vs Anisimova A." tvg-name="14:00 WTA - WIMBLEDON : Sabalenka A. vs Anisimova A. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WIMBLEDON", Tennis Stream 11
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Sabalenka A. vs Anisimova A." tvg-name="14:00 WTA - WIMBLEDON : Sabalenka A. vs Anisimova A. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WIMBLEDON", Tennis Stream 31
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Bencic B. vs Swiatek I." tvg-name="14:30 WTA - WIMBLEDON : Bencic B. vs Swiatek I. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WIMBLEDON", Tennis Stream 11
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Bencic B. vs Swiatek I." tvg-name="14:30 WTA - WIMBLEDON : Bencic B. vs Swiatek I. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WIMBLEDON", Tennis Stream 31
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Arevalo M./Pavic M. vs Hijikata R./Pel D." tvg-name="14:00 ATP DOUBLES - WIMBLEDON : Arevalo M./Pavic M. vs Hijikata R./Pel D. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP DOUBLES - WIMBLEDON", Tennis Stream 1
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Arevalo M./Pavic M. vs Hijikata R./Pel D." tvg-name="14:00 ATP DOUBLES - WIMBLEDON : Arevalo M./Pavic M. vs Hijikata R./Pel D. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP DOUBLES - WIMBLEDON", Tennis Stream 21
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Granollers M./Zeballos H. vs Cash J./Glasspool L." tvg-name="15:30 ATP DOUBLES - WIMBLEDON : Granollers M./Zeballos H. vs Cash J./Glasspool L. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP DOUBLES - WIMBLEDON", Tennis Stream 1
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Granollers M./Zeballos H. vs Cash J./Glasspool L." tvg-name="15:30 ATP DOUBLES - WIMBLEDON : Granollers M./Zeballos H. vs Cash J./Glasspool L. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP DOUBLES - WIMBLEDON", Tennis Stream 21
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Verbeek S./Siniakova K. vs Salisbury J./Stefani L." tvg-name="17:30 WTA DOUBLES - WIMBLEDON : Verbeek S./Siniakova K. vs Salisbury J./Stefani L. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA DOUBLES - WIMBLEDON", Tennis Stream 11
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Verbeek S./Siniakova K. vs Salisbury J./Stefani L." tvg-name="17:30 WTA DOUBLES - WIMBLEDON : Verbeek S./Siniakova K. vs Salisbury J./Stefani L. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA DOUBLES - WIMBLEDON", Tennis Stream 31
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - CNo. 2 Court" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : CNo. 2 Court - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 2
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - No. 3 Court" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : No. 3 Court - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 3
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 4" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 4 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 4
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 4" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 4 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 4
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 4" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 4 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 4
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 5" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 5 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 5
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 6" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 6 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 6
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 7" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 7 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 7
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 8" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 8 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 8
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 11" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 11 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 13
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 12" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 12 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 12
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 14" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 14 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 14
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 15" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 15 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 15
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 17" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 17 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 17
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 18" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 18 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis BOYS & GIRLS - WIMBLEDON", Tennis Stream 18
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC Two UK
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-357.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-40.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-44.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-45.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-111.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-113.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", RDS CA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-839.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-46.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-701.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 3 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-129.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-393.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-396.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 4 Cyprus
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-914.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-915.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 6 Cyprus
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-916.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports Prime Greece
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-638.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports 6 Greece
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-636.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-438.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 3 Spain
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-526.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 4 Spain
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-527.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TRT Spor Turkey
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-889.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SRF Zwei
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-262.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-150.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Brazil
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-82.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 France
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-116.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 5 France
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-495.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 6 France
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-496.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 7 France
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-497.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 8 France
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-498.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-57.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-524.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-772.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-231.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Italy
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-772.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Greece
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-41.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-58.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Spain
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-525.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-773.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-773.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-42.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Canal+ Sport 5 Afrique
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-490.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Israel
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 6 Arabic
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-96.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 7 Arabic
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-97.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 9 Arabic
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-99.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Plus Israel
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Live Israel
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Star Israel
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-147.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs Los Angeles Sparks" tvg-name="21:00 WNBA : Minnesota Lynx vs Los Angeles Sparks - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-69.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs Los Angeles Sparks" tvg-name="21:00 WNBA : Minnesota Lynx vs Los Angeles Sparks - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Spectrum Sportsnet USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-982.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs Los Angeles Sparks" tvg-name="21:00 WNBA : Minnesota Lynx vs Los Angeles Sparks - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network North
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-898.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Brazil LBF Women - Sao Jose Dos Campos vs Basquete Ourinhos" tvg-name="00:30 Brazil LBF Women : Sao Jose Dos Campos vs Basquete Ourinhos - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 Brazil
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-82.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="CEBL Basketball - Vancouver Bandits vs Niagara River Lions" tvg-name="01:00 CEBL Basketball : Vancouver Bandits vs Niagara River Lions - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NLSE USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Las Vegas Aces W" tvg-name="01:30 WNBA : Washington Mystics W vs Las Vegas Aces W - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-55.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Las Vegas Aces W" tvg-name="01:30 WNBA : Washington Mystics W vs Las Vegas Aces W - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Monumental Sports Network
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-778.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Minnesota Timberwolves vs New Orleans Pelicans" tvg-name="21:00 NBA Las Vegas Summer League : Minnesota Timberwolves vs New Orleans Pelicans - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-45.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Minnesota Timberwolves vs New Orleans Pelicans" tvg-name="21:00 NBA Las Vegas Summer League : Minnesota Timberwolves vs New Orleans Pelicans - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Spectrum SportsNet USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-982.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Indiana Pacers vs Cleveland Cavaliers" tvg-name="23:00 NBA Las Vegas Summer League : Indiana Pacers vs Cleveland Cavaliers - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Indiana Pacers vs Cleveland Cavaliers" tvg-name="23:00 NBA Las Vegas Summer League : Indiana Pacers vs Cleveland Cavaliers - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 5 Max France
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-495.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Indiana Pacers vs Cleveland Cavaliers" tvg-name="23:00 NBA Las Vegas Summer League : Indiana Pacers vs Cleveland Cavaliers - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Live Israel
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Brooklyn Nets vs Oklahoma City Thunder" tvg-name="23:30 NBA Las Vegas Summer League : Brooklyn Nets vs Oklahoma City Thunder - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-45.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Brooklyn Nets vs Oklahoma City Thunder" tvg-name="23:30 NBA Las Vegas Summer League : Brooklyn Nets vs Oklahoma City Thunder - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Sacramento Kings vs Orlando Magic" tvg-name="01:30 NBA Las Vegas Summer League : Sacramento Kings vs Orlando Magic - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Sacramento Kings vs Orlando Magic" tvg-name="01:30 NBA Las Vegas Summer League : Sacramento Kings vs Orlando Magic - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 5 Max France
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-495.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Sacramento Kings vs Orlando Magic" tvg-name="01:30 NBA Las Vegas Summer League : Sacramento Kings vs Orlando Magic - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Dallas Mavericks vs Los Angeles Lakers" tvg-name="02:00 NBA Las Vegas Summer League : Dallas Mavericks vs Los Angeles Lakers - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-44.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Dallas Mavericks vs Los Angeles Lakers" tvg-name="02:00 NBA Las Vegas Summer League : Dallas Mavericks vs Los Angeles Lakers - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN Deportes
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-375.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Dallas Mavericks vs Los Angeles Lakers" tvg-name="02:00 NBA Las Vegas Summer League : Dallas Mavericks vs Los Angeles Lakers - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN3
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-113.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Dallas Mavericks vs Los Angeles Lakers" tvg-name="02:00 NBA Las Vegas Summer League : Dallas Mavericks vs Los Angeles Lakers - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN5
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Dallas Mavericks vs Los Angeles Lakers" tvg-name="02:00 NBA Las Vegas Summer League : Dallas Mavericks vs Los Angeles Lakers - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN4 Brazil
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-85.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Milwaukee Bucks vs Denver Nuggets" tvg-name="03:30 NBA Las Vegas Summer League : Milwaukee Bucks vs Denver Nuggets - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Milwaukee Bucks vs Denver Nuggets" tvg-name="03:30 NBA Las Vegas Summer League : Milwaukee Bucks vs Denver Nuggets - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Altitude Sports
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-923.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Milwaukee Bucks vs Denver Nuggets" tvg-name="03:30 NBA Las Vegas Summer League : Milwaukee Bucks vs Denver Nuggets - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network Wisconsin
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-907.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Milwaukee Bucks vs Denver Nuggets" tvg-name="03:30 NBA Las Vegas Summer League : Milwaukee Bucks vs Denver Nuggets - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 5 Max France
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-495.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Milwaukee Bucks vs Denver Nuggets" tvg-name="03:30 NBA Las Vegas Summer League : Milwaukee Bucks vs Denver Nuggets - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs San Antonio Spurs" tvg-name="04:00 NBA Las Vegas Summer League : Philadelphia 76ers vs San Antonio Spurs - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBC Sports Philadelphia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-777.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs San Antonio Spurs" tvg-name="04:00 NBA Las Vegas Summer League : Philadelphia 76ers vs San Antonio Spurs - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-44.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs San Antonio Spurs" tvg-name="04:00 NBA Las Vegas Summer League : Philadelphia 76ers vs San Antonio Spurs - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN3
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-113.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs San Antonio Spurs" tvg-name="04:00 NBA Las Vegas Summer League : Philadelphia 76ers vs San Antonio Spurs - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN Deportes
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-375.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs San Antonio Spurs" tvg-name="04:00 NBA Las Vegas Summer League : Philadelphia 76ers vs San Antonio Spurs - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 Argentina
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-150.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - France vs. Brazil" tvg-name="08:30 Nations League Women : France vs. Brazil - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - France vs. Brazil" tvg-name="08:30 Nations League Women : France vs. Brazil - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 2 Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - France vs. Brazil" tvg-name="08:30 Nations League Women : France vs. Brazil - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Max Sport 2 Bulgaria
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - France vs. Brazil" tvg-name="08:30 Nations League Women : France vs. Brazil - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SporTV2 Brazil
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - France vs. Brazil" tvg-name="08:30 Nations League Women : France vs. Brazil - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 3 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Republic of Korea vs. Japan" tvg-name="12:20 Nations League Women : Republic of Korea vs. Japan - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Republic of Korea vs. Japan" tvg-name="12:20 Nations League Women : Republic of Korea vs. Japan - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", RTVS Sport Slovakia HD
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-3.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Republic of Korea vs. Japan" tvg-name="12:20 Nations League Women : Republic of Korea vs. Japan - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Sport 1 Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-429.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Republic of Korea vs. Japan" tvg-name="12:20 Nations League Women : Republic of Korea vs. Japan - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 3 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Italy vs. Serbia" tvg-name="17:00 Nations League Women : Italy vs. Serbia - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Italy vs. Serbia" tvg-name="17:00 Nations League Women : Italy vs. Serbia - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Max Sport 1 Bulgaria
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Italy vs. Serbia" tvg-name="17:00 Nations League Women : Italy vs. Serbia - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", RTVS Sport Slovakia HD
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-3.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Italy vs. Serbia" tvg-name="17:00 Nations League Women : Italy vs. Serbia - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Sport 1 Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-429.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Italy vs. Serbia" tvg-name="17:00 Nations League Women : Italy vs. Serbia - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SporTV2 Brazil
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Italy vs. Serbia" tvg-name="17:00 Nations League Women : Italy vs. Serbia - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 3 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Belgium vs. Netherlands" tvg-name="20:30 Nations League Women : Belgium vs. Netherlands - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Belgium vs. Netherlands" tvg-name="20:30 Nations League Women : Belgium vs. Netherlands - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SporTV2 Brazil
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Belgium vs. Netherlands" tvg-name="20:30 Nations League Women : Belgium vs. Netherlands - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 3 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Thailand vs. Germany" tvg-name="23:00 Nations League Women : Thailand vs. Germany - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Thailand vs. Germany" tvg-name="23:00 Nations League Women : Thailand vs. Germany - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SporTV2 Brazil
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Thailand vs. Germany" tvg-name="23:00 Nations League Women : Thailand vs. Germany - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 3 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic vs. USA" tvg-name="02:30 Nations League Women : Dominican Republic vs. USA - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", CBS Sports Network USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-308.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic vs. USA" tvg-name="02:30 Nations League Women : Dominican Republic vs. USA - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic vs. USA" tvg-name="02:30 Nations League Women : Dominican Republic vs. USA - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SporTV2 Brazil
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic vs. USA" tvg-name="02:30 Nations League Women : Dominican Republic vs. USA - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 3 Croatia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
 
