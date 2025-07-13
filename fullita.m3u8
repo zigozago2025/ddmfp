@@ -1,25 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Sligo Rovers vs Derry City" tvg-name="19:45 Ireland Republic - Premier Division : Sligo Rovers vs Derry City - 12/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-151.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - Longford Town vs Kerry" tvg-name="19:30 Ireland Republic - First Division : Longford Town vs Kerry - 12/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-152.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Sweden vs Germany" tvg-name="20:00 UEFA Women's Euro : Sweden vs Germany - 12/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ITV 1 UK
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-350.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Sweden vs Germany" tvg-name="20:00 UEFA Women's Euro : Sweden vs Germany - 12/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Rai Sport 1 IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Poland vs Denmark" tvg-name="20:00 UEFA Women's Euro : Poland vs Denmark - 12/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ITV 4 UK
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-353.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UFC Fight Night Main Card - Derrick Lewis vs Tallison Teixeira" tvg-name="02:00 UFC Fight Night Main Card : Derrick Lewis vs Tallison Teixeira - 12/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="MMA", Eurosport 1 IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Nations League Women - Turkey W vs Italy W" tvg-name="18:00 Nations League Women : Turkey W vs Italy W - 12/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Zona DAZN IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=Cuca1989!
-
 #EXTINF:-1 tvg-id="World - Club Friendly - Preston North End vs Liverpool" tvg-name="15:00 World - Club Friendly : Preston North End vs Liverpool - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ITV 1 UK
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-350.php&redirect_stream=true&api_password=Cuca1989!
 
