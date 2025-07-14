@@ -1,31 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="World - Club Friendly - Preston North End vs Liverpool" tvg-name="15:00 World - Club Friendly : Preston North End vs Liverpool - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ITV 1 UK
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-350.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Netherlands vs France" tvg-name="20:00 UEFA Women's Euro : Netherlands vs France - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ITV 4 UK
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-353.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Netherlands vs France" tvg-name="20:00 UEFA Women's Euro : Netherlands vs France - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Rai Sport IT
+#EXTINF:-1 tvg-id="World Championship U20 - France U20 vs New Zealand U20" tvg-name="17:00 World Championship U20 : France U20 vs New Zealand U20 - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Rai Sport 1 IT
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Wales" tvg-name="20:00 UEFA Women's Euro : England vs Wales - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ITV 1 UK
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-350.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup Final - Chelsea vs PSG" tvg-name="20:00 FIFA Club World Cup Final : Chelsea vs PSG - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canale 5 IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-24.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="World Championship Women - Spain W vs France W" tvg-name="09:00 World Championship Women : Spain W vs France W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Sky Sport Arena IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-462.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="World Championship Women - Australia W vs Italy W" tvg-name="10:30 World Championship Women : Australia W vs Italy W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Rai Sport 1 Italy
+#EXTINF:-1 tvg-id="World Championship U20 - South Africa U20 vs Argentina U20" tvg-name="19:30 World Championship U20 : South Africa U20 vs Argentina U20 - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Rai Sport 1 IT
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="World Championship Women - Australia W vs Italy W" tvg-name="10:30 World Championship Women : Australia W vs Italy W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Sky Sport Arena IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-462.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="World Championship Women - Netherlands W vs USA W" tvg-name="13:45 World Championship Women : Netherlands W vs USA W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Rai Sport 1 Italy
+#EXTINF:-1 tvg-id="World Championship - Australia vs Spain" tvg-name="09:00 World Championship : Australia vs Spain - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Rai Sport 1 Italy
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="World Championship Women - Netherlands W vs USA W" tvg-name="13:45 World Championship Women : Netherlands W vs USA W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Sky Sport Arena IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-462.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="World Championship - Croatia vs Montenegro" tvg-name="10:30 World Championship : Croatia vs Montenegro - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Rai Sport 1 Italy
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="World Championship - Italy vs Serbia" tvg-name="13:45 World Championship : Italy vs Serbia - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Rai Sport 1 Italy
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
 
