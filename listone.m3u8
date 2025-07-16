@@ -858,288 +858,267 @@ https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin
 https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportf1%29/master_2hr-aac.mpd%3F%26ck%3DMTExODk3ZDUxMGFjMGZlZDBkNWQwNTBlZjU0YjViZDY6N2RhODVmNzI0NTg3YjlkOGE4NTA5NTY1MzQyMWVlMTA%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111897d510ac0fed0d5d050ef54b5bd6&key=7da85f724587b9d8a85095653421ee10&api_password=Cuca1989!
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", Sky Sport F1 (H)
 https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportf1%29/master_2hr-aac.mpd&key_id=111897d510ac0fed0d5d050ef54b5bd6&key=7da85f724587b9d8a85095653421ee10&api_password=Cuca1989!
-#EXTINF:-1 tvg-id="Club Friendly - Sydney FC vs Wrexham" tvg-name="11:30 Club Friendly : Sydney FC vs Wrexham - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Premier League DE
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-130.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Olimpija" tvg-name="17:00 UEFA Champions League : Kairat vs Olimpija - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Kanal A Slovenia
+# Canali aggiunti da Hattrick
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport UNO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", Sky Sport UNO (H)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportuno%29/master_2hr-aac.mpd&key_id=1118b95f9878e87a0176a2a663bf8fb6&key=518c6f17f6e37f2d3a0e407a180bf01a&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", Sky Sport Tennis (Hd)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysporttennis%29/master_2hr-aac.mpd%3F%26ck%3DMTExODYyZDI3YzEwNzM2OThkNmVjNWJiYzMyOGZjNGM6Nzc3ZWM5MGZjM2NkYzZjZWMxYjk2M2VmMTQ3NjBlZjE%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111862d27c1073698d6ec5bbc328fc4c&key=777ec90fc3cdc6cec1b963ef14760ef1&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", Sky Sport Tennis (H)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysporttennis%29/master_2hr-aac.mpd&key_id=111862d27c1073698d6ec5bbc328fc4c&key=777ec90fc3cdc6cec1b963ef14760ef1&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport", Sky Sport Arena (Hd)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportarena%29/master_2hr-aac.mpd%3F%26ck%3DMTExODk0ZGZhZWNmYzY0YWNmMTE0YjAyNmIxYjA2ZmY6ZDFhMTQ5ODc5YTE3ZjEzZjJkNThiN2FkZTVkOGEwNjY%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111894dfaecfc64acf114b026b1b06ff&key=d1a149879a17f13f2d58b7ade5d8a066&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport", Sky Sport MotoGP (Hd)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport", Sky Sport MotoGP (H)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", Sky Sport F1 (Hd)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportf1%29/master_2hr-aac.mpd%3F%26ck%3DMTExODk3ZDUxMGFjMGZlZDBkNWQwNTBlZjU0YjViZDY6N2RhODVmNzI0NTg3YjlkOGE4NTA5NTY1MzQyMWVlMTA%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111897d510ac0fed0d5d050ef54b5bd6&key=7da85f724587b9d8a85095653421ee10&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", Sky Sport F1 (H)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportf1%29/master_2hr-aac.mpd&key_id=111897d510ac0fed0d5d050ef54b5bd6&key=7da85f724587b9d8a85095653421ee10&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="UEFA Conference League - Auda vs Larne" tvg-name="18:00 UEFA Conference League : Auda vs Larne - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Latvia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="UEFA Champions League - Lincoln Red Imps vs Víkingur" tvg-name="17:30 UEFA Champions League : Lincoln Red Imps vs Víkingur - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 1 Premium Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="UEFA Champions League - Dinamo Minsk vs Ludogorets" tvg-name="20:45 UEFA Champions League : Dinamo Minsk vs Ludogorets - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Diema Sport Bulgaria
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-465.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="UEFA Champions League - Hamrun Spartans vs Žalgiris" tvg-name="19:00 UEFA Champions League : Hamrun Spartans vs Žalgiris - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Delfi TV Lithuania
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-2.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Malmö FF vs Saburtalo" tvg-name="19:00 UEFA Champions League : Malmö FF vs Saburtalo - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 1TV Georgia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-3.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Rīgas FS vs Levadia" tvg-name="19:00 UEFA Champions League : Rīgas FS vs Levadia - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV4 Latvia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Škendija 79 vs The New Saints" tvg-name="20:00 UEFA Champions League : Škendija 79 vs The New Saints - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", S4C UK
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-670.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Škendija 79 vs The New Saints" tvg-name="20:00 UEFA Champions League : Škendija 79 vs The New Saints - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MRT3
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-6.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Škendija 79 vs The New Saints" tvg-name="20:00 UEFA Champions League : Škendija 79 vs The New Saints - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 SPORT Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Zrinjski vs Virtus" tvg-name="21:00 UEFA Champions League : Zrinjski vs Virtus - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-429.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Zrinjski vs Virtus" tvg-name="21:00 UEFA Champions League : Zrinjski vs Virtus - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-432.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Breidablik vs Egnatia Rrogozhinë" tvg-name="21:00 UEFA Champions League : Breidablik vs Egnatia Rrogozhinë - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport 2 Digitalb
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - BASTAD - Ofner S. vs Dzumhur D." tvg-name="11:00 ATP - BASTAD : Ofner S. vs Dzumhur D. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - BASTAD", Tennis Stream 7
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - BASTAD - Ymer E. vs Boyer T." tvg-name="12:30 ATP - BASTAD : Ymer E. vs Boyer T. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - BASTAD", Tennis Stream 7
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - BASTAD - Ymer M. vs Van De Zandschulp B." tvg-name="14:00 ATP - BASTAD : Ymer M. vs Van De Zandschulp B. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - BASTAD", Tennis Stream 7
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - BASTAD - Misolic F. vs Moller E." tvg-name="15:30 ATP - BASTAD : Misolic F. vs Moller E. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - BASTAD", Tennis Stream 7
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - GSTAAD - Cerundolo J. M. vs Struff J-L." tvg-name="10:30 ATP - GSTAAD : Cerundolo J. M. vs Struff J-L. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GSTAAD", Tennis Stream 8
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - GSTAAD - Landaluce M. vs Goffin D." tvg-name="12:00 ATP - GSTAAD : Landaluce M. vs Goffin D. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GSTAAD", Tennis Stream 8
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - GSTAAD - Kym J. vs Hemery C." tvg-name="15:00 ATP - GSTAAD : Kym J. vs Hemery C. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GSTAAD", Tennis Stream 8
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - GSTAAD - Shevchenko A. vs Wawrinka S." tvg-name="17:30 ATP - GSTAAD : Shevchenko A. vs Wawrinka S. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - GSTAAD", Tennis Stream 8
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - LOS CABOS - Habib H. vs Kovacevic A." tvg-name="03:00 ATP - LOS CABOS : Habib H. vs Kovacevic A. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - LOS CABOS", Tennis Stream 8
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - LOS CABOS - Vukic A. vs Nava E." tvg-name="04:30 ATP - LOS CABOS : Vukic A. vs Nava E. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - LOS CABOS", Tennis Stream 8
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - LOS CABOS - Daniel T. vs Hernandez A." tvg-name="06:00 ATP - LOS CABOS : Daniel T. vs Hernandez A. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - LOS CABOS", Tennis Stream 8
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - HAMBURG - Nahimana S. vs Rus A." tvg-name="10:00 WTA - HAMBURG : Nahimana S. vs Rus A. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - HAMBURG :", Tennis Stream 2
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - HAMBURG - Timofeeva M. vs Juvan K." tvg-name="10:00 WTA - HAMBURG : Timofeeva M. vs Juvan K. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - HAMBURG :", Tennis Stream 3
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - HAMBURG - Krunic A. vs Galfi D." tvg-name="11:00 WTA - HAMBURG : Krunic A. vs Galfi D. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - HAMBURG :", Tennis Stream 1
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - HAMBURG - Fossa Huergo N. vs Romero Gormaz L." tvg-name="11:30 WTA - HAMBURG : Fossa Huergo N. vs Romero Gormaz L. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - HAMBURG :", Tennis Stream 2
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - HAMBURG - Noha Akugue N. vs Bondar A." tvg-name="12:30 WTA - HAMBURG : Noha Akugue N. vs Bondar A. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - HAMBURG :", Tennis Stream 1
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - HAMBURG - Cengiz B. vs Kraus S." tvg-name="13:00 WTA - HAMBURG : Cengiz B. vs Kraus S. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - HAMBURG :", Tennis Stream 2
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - HAMBURG - Boisson L. vs Grabher J." tvg-name="14:00 WTA - HAMBURG : Boisson L. vs Grabher J. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - HAMBURG :", Tennis Stream 1
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - HAMBURG - Sharma A. vs Jacquemot E." tvg-name="14:30 WTA - HAMBURG : Sharma A. vs Jacquemot E. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - HAMBURG :", Tennis Stream 2
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - HAMBURG - Serban R. vs Korpatsch T." tvg-name="17:00 WTA - HAMBURG : Serban R. vs Korpatsch T. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - HAMBURG :", Tennis Stream 1
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - HAMBURG - Werner C. vs Steiner V." tvg-name="18:30 WTA - HAMBURG : Werner C. vs Steiner V. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - HAMBURG :", Tennis Stream 1
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - IASI - Kawa K. vs Siskova A." tvg-name="09:30 WTA - IASI : Kawa K. vs Siskova A. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - IASI :", Tennis Stream 6
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - IASI - Popa G. S. vs Jimenez Kasintseva V." tvg-name="09:30 WTA - IASI : Popa G. S. vs Jimenez Kasintseva V. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - IASI :", Tennis Stream 5
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - IASI - Tig P. M. vs Carle M. L." tvg-name="09:30 WTA - IASI : Tig P. M. vs Carle M. L. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - IASI :", Tennis Stream 4
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - IASI - Avanesyan E. vs Prisacariu A." tvg-name="11:00 WTA - IASI : Avanesyan E. vs Prisacariu A. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - IASI :", Tennis Stream 4
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - IASI - Parrizas-Diaz N. vs Burillo Escorihuela I." tvg-name="11:00 WTA - IASI : Parrizas-Diaz N. vs Burillo Escorihuela I. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - IASI :", Tennis Stream 6
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - IASI - Waltert S. vs Sevastova A." tvg-name="11:00 WTA - IASI : Waltert S. vs Sevastova A. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - IASI :", Tennis Stream 5
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - IASI - Lodikova D. vs Cristian J." tvg-name="15:30 WTA - IASI : Lodikova D. vs Cristian J. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - IASI :", Tennis Stream 4
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - IASI - Jones F. vs Herrero Linana A." tvg-name="16:00 WTA - IASI : Jones F. vs Herrero Linana A. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - IASI :", Tennis Stream 5
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - IASI - Rouvroy M. vs Udvardy P." tvg-name="16:00 WTA - IASI : Rouvroy M. vs Udvardy P. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - IASI :", Tennis Stream 6
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - IASI - Cirstea S. vs Buzarnescu M." tvg-name="17:30 WTA - IASI : Cirstea S. vs Buzarnescu M. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - IASI :", Tennis Stream 4
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-40.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-46.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-701.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV3 Portugal
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV3 Portugal
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-454.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 PLUS Israel
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 PLUS Israel
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-474.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-393.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-396.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-713.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-714.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Asia Cup Women - Indonesia W vs New Zealand W" tvg-name="07:30 Asia Cup Women : Indonesia W vs New Zealand W - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 3 Croatia
+#EXTINF:-1 tvg-id="Asia Cup Women - Philippines W vs Lebanon W" tvg-name="07:30 Asia Cup Women : Philippines W vs Lebanon W - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 3 Croatia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="International, World Championships, Women, Group B - China vs. Netherlands" tvg-name="10:00 International, World Championships, Women, Group B : China vs. Netherlands - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", M4 Sport Hungary
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-265.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Asia Cup Women - Japan W vs Australia W" tvg-name="10:30 Asia Cup Women : Japan W vs Australia W - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 3 Croatia
+#EXTINF:-1 tvg-id="Asia Cup Women - South Korea W vs Indonesia W" tvg-name="10:30 Asia Cup Women : South Korea W vs Indonesia W - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 3 Croatia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Asia Cup Women - South Korea W vs China W" tvg-name="13:30 Asia Cup Women : South Korea W vs China W - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 3 Croatia
+#EXTINF:-1 tvg-id="Asia Cup Women - China W vs New Zealand W" tvg-name="13:30 Asia Cup Women : China W vs New Zealand W - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 3 Croatia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="International U19 WC Women Group D - Spain vs. Czech Republic" tvg-name="17:30 International U19 WC Women Group D : Spain vs. Czech Republic - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CT Sport Czech HD
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-11.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Asia Cup Women - China W vs New Zealand W" tvg-name="13:30 Asia Cup Women : China W vs New Zealand W - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 9 Qatar HD
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-99.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Detroit Pistons vs Minnesota Timberwolves" tvg-name="22:30 NBA Las Vegas Summer League : Detroit Pistons vs Minnesota Timberwolves - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="WNBA - Atlanta Dream vs Chicago Sky" tvg-name="18:00 WNBA : Atlanta Dream vs Chicago Sky - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-16.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Detroit Pistons vs Minnesota Timberwolves" tvg-name="22:30 NBA Las Vegas Summer League : Detroit Pistons vs Minnesota Timberwolves - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network Detroit
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-891.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury vs Minnesota Lynx" tvg-name="19:00 WNBA : Phoenix Mercury vs Minnesota Lynx - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-17.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Detroit Pistons vs Minnesota Timberwolves" tvg-name="22:30 NBA Las Vegas Summer League : Detroit Pistons vs Minnesota Timberwolves - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network North
+#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury vs Minnesota Lynx" tvg-name="19:00 WNBA : Phoenix Mercury vs Minnesota Lynx - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network North
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-898.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Detroit Pistons vs Minnesota Timberwolves" tvg-name="22:30 NBA Las Vegas Summer League : Detroit Pistons vs Minnesota Timberwolves - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Live Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Seattle Storm" tvg-name="21:00 WNBA : Golden State Valkyries W vs Seattle Storm - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-15.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - New York Knicks vs Brooklyn Nets" tvg-name="00:00 NBA Las Vegas Summer League : New York Knicks vs Brooklyn Nets - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 USA
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Cleveland Cavaliers vs Sacramento Kings" tvg-name="21:30 NBA Las Vegas Summer League : Cleveland Cavaliers vs Sacramento Kings - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBC Sports California
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-755.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Cleveland Cavaliers vs Sacramento Kings" tvg-name="21:30 NBA Las Vegas Summer League : Cleveland Cavaliers vs Sacramento Kings - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 USA
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-45.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - New York Knicks vs Brooklyn Nets" tvg-name="00:00 NBA Las Vegas Summer League : New York Knicks vs Brooklyn Nets - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", YES Network USA
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Minnesota Timberwolves vs Phoenix Suns" tvg-name="23:00 NBA Las Vegas Summer League : Minnesota Timberwolves vs Phoenix Suns - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Minnesota Timberwolves vs Phoenix Suns" tvg-name="23:00 NBA Las Vegas Summer League : Minnesota Timberwolves vs Phoenix Suns - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network North
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-898.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Minnesota Timberwolves vs Phoenix Suns" tvg-name="23:00 NBA Las Vegas Summer League : Minnesota Timberwolves vs Phoenix Suns - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Chicago Bulls vs Milwaukee Bucks" tvg-name="23:30 NBA Las Vegas Summer League : Chicago Bulls vs Milwaukee Bucks - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-45.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Chicago Bulls vs Milwaukee Bucks" tvg-name="23:30 NBA Las Vegas Summer League : Chicago Bulls vs Milwaukee Bucks - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network Wisconsin
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-907.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Brooklyn Nets vs Orlando Magic" tvg-name="01:30 NBA Las Vegas Summer League : Brooklyn Nets vs Orlando Magic - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Brooklyn Nets vs Orlando Magic" tvg-name="01:30 NBA Las Vegas Summer League : Brooklyn Nets vs Orlando Magic - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", YES USA
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-763.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - New York Knicks vs Brooklyn Nets" tvg-name="00:00 NBA Las Vegas Summer League : New York Knicks vs Brooklyn Nets - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Brooklyn Nets vs Orlando Magic" tvg-name="01:30 NBA Las Vegas Summer League : Brooklyn Nets vs Orlando Magic - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet One
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-411.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Orlando Magic vs Oklahoma City Thunder" tvg-name="00:30 NBA Las Vegas Summer League : Orlando Magic vs Oklahoma City Thunder - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Orlando Magic vs Oklahoma City Thunder" tvg-name="00:30 NBA Las Vegas Summer League : Orlando Magic vs Oklahoma City Thunder - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network Florida
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Brooklyn Nets vs Orlando Magic" tvg-name="01:30 NBA Las Vegas Summer League : Brooklyn Nets vs Orlando Magic - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network Florida
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-892.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Orlando Magic vs Oklahoma City Thunder" tvg-name="00:30 NBA Las Vegas Summer League : Orlando Magic vs Oklahoma City Thunder - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network Oklahoma
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-900.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Orlando Magic vs Oklahoma City Thunder" tvg-name="00:30 NBA Las Vegas Summer League : Orlando Magic vs Oklahoma City Thunder - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Live Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Connecticut Sun W vs Indiana Fever W" tvg-name="02:00 WNBA : Connecticut Sun W vs Indiana Fever W - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-44.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Connecticut Sun W vs Indiana Fever W" tvg-name="02:00 WNBA : Connecticut Sun W vs Indiana Fever W - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Connecticut Sun W vs Indiana Fever W" tvg-name="02:00 WNBA : Connecticut Sun W vs Indiana Fever W - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet One
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-411.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Connecticut Sun W vs Indiana Fever W" tvg-name="02:00 WNBA : Connecticut Sun W vs Indiana Fever W - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN Deportes
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-375.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Denver Nuggets vs Toronto Raptors" tvg-name="02:00 NBA Las Vegas Summer League : Denver Nuggets vs Toronto Raptors - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN1
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-111.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Denver Nuggets vs Toronto Raptors" tvg-name="02:00 NBA Las Vegas Summer League : Denver Nuggets vs Toronto Raptors - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Altitude USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-923.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Denver Nuggets vs Toronto Raptors" tvg-name="02:00 NBA Las Vegas Summer League : Denver Nuggets vs Toronto Raptors - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN5
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Denver Nuggets vs Toronto Raptors" tvg-name="02:00 NBA Las Vegas Summer League : Denver Nuggets vs Toronto Raptors - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN3
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-113.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Denver Nuggets vs Toronto Raptors" tvg-name="02:00 NBA Las Vegas Summer League : Denver Nuggets vs Toronto Raptors - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-114.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Washington Wizards vs Philadelphia 76ers" tvg-name="02:30 NBA Las Vegas Summer League : Washington Wizards vs Philadelphia 76ers - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Washington Wizards vs Philadelphia 76ers" tvg-name="02:30 NBA Las Vegas Summer League : Washington Wizards vs Philadelphia 76ers - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBC Sports Philadelphia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-777.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Washington Wizards vs Philadelphia 76ers" tvg-name="02:30 NBA Las Vegas Summer League : Washington Wizards vs Philadelphia 76ers - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Live Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Washington Mystics W" tvg-name="04:00 WNBA : Los Angeles Sparks W vs Washington Mystics W - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Spectrum SportsNet USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-982.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Washington Mystics W" tvg-name="04:00 WNBA : Los Angeles Sparks W vs Washington Mystics W - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-3.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Washington Mystics W" tvg-name="04:00 WNBA : Los Angeles Sparks W vs Washington Mystics W - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Monumental Sports Network
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-778.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - New Orleans Pelicans vs Portland Trail Blazers" tvg-name="04:00 NBA Las Vegas Summer League : New Orleans Pelicans vs Portland Trail Blazers - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-44.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - New Orleans Pelicans vs Portland Trail Blazers" tvg-name="04:00 NBA Las Vegas Summer League : New Orleans Pelicans vs Portland Trail Blazers - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN5
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - New Orleans Pelicans vs Portland Trail Blazers" tvg-name="04:00 NBA Las Vegas Summer League : New Orleans Pelicans vs Portland Trail Blazers - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN3
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-113.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - New Orleans Pelicans vs Portland Trail Blazers" tvg-name="04:00 NBA Las Vegas Summer League : New Orleans Pelicans vs Portland Trail Blazers - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN Deportes USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-375.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Memphis Grizzlies vs Golden State Warriors" tvg-name="04:30 NBA Las Vegas Summer League : Memphis Grizzlies vs Golden State Warriors - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Memphis Grizzlies vs Golden State Warriors" tvg-name="04:30 NBA Las Vegas Summer League : Memphis Grizzlies vs Golden State Warriors - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBC Sports Bay Area
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-753.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Memphis Grizzlies vs Golden State Warriors" tvg-name="04:30 NBA Las Vegas Summer League : Memphis Grizzlies vs Golden State Warriors - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet One
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-411.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Memphis Grizzlies vs Golden State Warriors" tvg-name="04:30 NBA Las Vegas Summer League : Memphis Grizzlies vs Golden State Warriors - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Brooklyn Nets vs Orlando Magic" tvg-name="01:30 NBA Las Vegas Summer League : Brooklyn Nets vs Orlando Magic - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="World Championships Women - Italy W vs Singapore W" tvg-name="13:00 World Championships Women : Italy W vs Singapore W - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Rai Sport 1 Italy
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Indiana Fever W" tvg-name="01:30 WNBA : New York Liberty W vs Indiana Fever W - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-6.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Indiana Fever W" tvg-name="01:30 WNBA : New York Liberty W vs Indiana Fever W - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CBS Sports Network
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-308.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Indiana Fever W" tvg-name="01:30 WNBA : New York Liberty W vs Indiana Fever W - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FOX USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-54.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Indiana Fever W" tvg-name="01:30 WNBA : New York Liberty W vs Indiana Fever W - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FOXNY USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-768.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WNBA - Las Vegas Aces vs Dallas Wings" tvg-name="01:30 WNBA : Las Vegas Aces vs Dallas Wings - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-7.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs Dallas Mavericks" tvg-name="02:00 NBA Las Vegas Summer League : Philadelphia 76ers vs Dallas Mavericks - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-44.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs Dallas Mavericks" tvg-name="02:00 NBA Las Vegas Summer League : Philadelphia 76ers vs Dallas Mavericks - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-114.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs Dallas Mavericks" tvg-name="02:00 NBA Las Vegas Summer League : Philadelphia 76ers vs Dallas Mavericks - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBC Sports Philadelphia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-777.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs Dallas Mavericks" tvg-name="02:00 NBA Las Vegas Summer League : Philadelphia 76ers vs Dallas Mavericks - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN4 Brazil
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-85.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Oklahoma City Thunder vs New Orleans Pelicans" tvg-name="03:30 NBA Las Vegas Summer League : Oklahoma City Thunder vs New Orleans Pelicans - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Oklahoma City Thunder vs New Orleans Pelicans" tvg-name="03:30 NBA Las Vegas Summer League : Oklahoma City Thunder vs New Orleans Pelicans - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet One
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-411.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Oklahoma City Thunder vs New Orleans Pelicans" tvg-name="03:30 NBA Las Vegas Summer League : Oklahoma City Thunder vs New Orleans Pelicans - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network Oklahoma
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-900.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Oklahoma City Thunder vs New Orleans Pelicans" tvg-name="03:30 NBA Las Vegas Summer League : Oklahoma City Thunder vs New Orleans Pelicans - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Utah Jazz vs Washington Wizards" tvg-name="04:00 NBA Las Vegas Summer League : Utah Jazz vs Washington Wizards - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-44.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Utah Jazz vs Washington Wizards" tvg-name="04:00 NBA Las Vegas Summer League : Utah Jazz vs Washington Wizards - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Monumental Sports Network
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-778.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Argentina vs Brazil" tvg-name="05:00 Nations League : Argentina vs Brazil - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Argentina vs Brazil" tvg-name="05:00 Nations League : Argentina vs Brazil - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SporTV2 Brazil
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Argentina vs Brazil" tvg-name="05:00 Nations League : Argentina vs Brazil - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", MAX Sport 2 Bulgaria
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Turkey vs USA" tvg-name="08:30 Nations League : Turkey vs USA - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", CBS Sports Network
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-308.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Turkey vs USA" tvg-name="08:30 Nations League : Turkey vs USA - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Turkey vs USA" tvg-name="08:30 Nations League : Turkey vs USA - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 1 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Germany vs Japan" tvg-name="12:20 Nations League : Germany vs Japan - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Germany vs Japan" tvg-name="12:20 Nations League : Germany vs Japan - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 1 Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Germany vs Japan" tvg-name="12:20 Nations League : Germany vs Japan - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 1 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs Netherlands" tvg-name="13:00 Nations League : Ukraine vs Netherlands - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 3 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-129.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs Netherlands" tvg-name="13:00 Nations League : Ukraine vs Netherlands - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub HD Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - China vs France" tvg-name="13:00 Nations League : China vs France - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - China vs France" tvg-name="13:00 Nations League : China vs France - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SporTV2 Brazil
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - China vs France" tvg-name="13:00 Nations League : China vs France - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 4 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Serbia vs Italy" tvg-name="16:30 Nations League : Serbia vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Serbia vs Italy" tvg-name="16:30 Nations League : Serbia vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 1 Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Serbia vs Italy" tvg-name="16:30 Nations League : Serbia vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SporTV2 Brazil
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Serbia vs Italy" tvg-name="16:30 Nations League : Serbia vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", MAX Sport 4 Bulgaria
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-475.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Serbia vs Italy" tvg-name="16:30 Nations League : Serbia vs Italy - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub HD Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs Cuba" tvg-name="16:30 Nations League : Bulgaria vs Cuba - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs Cuba" tvg-name="16:30 Nations League : Bulgaria vs Cuba - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", MAX Sport 2 Bulgaria
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs Cuba" tvg-name="16:30 Nations League : Bulgaria vs Cuba - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 1 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Iran vs Poland" tvg-name="20:00 Nations League : Iran vs Poland - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Iran vs Poland" tvg-name="20:00 Nations League : Iran vs Poland - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 2 Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Iran vs Poland" tvg-name="20:00 Nations League : Iran vs Poland - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SporTV2 Brazil
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Iran vs Poland" tvg-name="20:00 Nations League : Iran vs Poland - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", MAX Sport 2 Bulgaria
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Iran vs Poland" tvg-name="20:00 Nations League : Iran vs Poland - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 1 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Canada vs Slovenia" tvg-name="20:30 Nations League : Canada vs Slovenia - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Canada vs Slovenia" tvg-name="20:30 Nations League : Canada vs Slovenia - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 3 Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Nations League - Canada vs Slovenia" tvg-name="20:30 Nations League : Canada vs Slovenia - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 3 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="World Championship - Italy vs South Africa" tvg-name="07:45 World Championship : Italy vs South Africa - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Rai Sport 1 Italy
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="World Championship - Greece vs Croatia" tvg-name="11:30 World Championship : Greece vs Croatia - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Rai Sport 1 Italy
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="World Championship - Spain vs Hungary" tvg-name="14:45 World Championship : Spain vs Hungary - 16/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Rai Sport 1 Italy
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
 
