@@ -1247,6 +1247,268 @@
                 ]
             }
         ],
+        "HOPMAN CUP</span>": [
+            {
+                "time": "19:00",
+                "event": "HOPMAN CUP : Bronzetti L. vs Vekic D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "HOPMAN CUP : Cobolli F. vs Ajdukovic D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            }
+        ],
+        "ATP - BASTAD</span>": [
+            {
+                "time": "12:30",
+                "event": "ATP - BASTAD : Misolic F. vs Moller E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "ATP - BASTAD : Ymer M. vs Van De Zandschulp B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "ATP - BASTAD : Pellegrino A. vs Griekspoor T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "ATP - BASTAD : Ymer E. vs Darderi L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - BASTAD : Baez S. vs Budkov Kjaer N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "ATP - GSTAAD</span>": [
+            {
+                "time": "12:00",
+                "event": "ATP - GSTAAD : Majchrzak K. vs Buse I.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - GSTAAD : Zahraj P. vs Burruchaga R. A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - GSTAAD : Ruud C. vs Stricker D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "ATP - GSTAAD : Cerundolo J. M. vs Goffin D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "ATP - LOS CABOS</span>": [
+            {
+                "time": "04:30",
+                "event": "ATP - LOS CABOS : Magadan A. vs Bu Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "06:00",
+                "event": "ATP - LOS CABOS : Walton A. vs Pacheco Mendez R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "ATP - LOS CABOS : McCabe J. vs Alvarez Valdes L. C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            }
+        ],
+        "WTA - HAMBURG</span>": [
+            {
+                "time": "12:30",
+                "event": "WTA - HAMBURG : Alexandrova E. vs Vedder E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - HAMBURG : Romero Gormaz L. vs Rus A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - HAMBURG : Juvan K. vs Chirico L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - HAMBURG : Niemeier J. vs Yastremska D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "15:30",
+                "event": "WTA - HAMBURG : Tomova V. vs Maria T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - HAMBURG : Schunk N. vs Galfi D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "WTA - HAMBURG : Boisson L. vs Korpatsch T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "WTA - IASI</span>": [
+            {
+                "time": "11:00",
+                "event": "WTA - IASI : Chwalinska M. vs Teichmann J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - IASI : Siskova A. vs Li A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - IASI : Begu I. vs Jimenez Kasintseva V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "WTA - IASI : Cirstea S. vs Gracheva V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "07:30",
