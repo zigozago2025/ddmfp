@@ -864,6 +864,8 @@ https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//g003-lin
 # Canali aggiunti da Hattrick
 
 # Canali aggiunti da Hattrick
+
+# Canali aggiunti da Hattrick
 #EXTINF:-1 tvg-id="Russia - Premier League - Dinamo Moskva vs Baltika" tvg-name="19:30 Russia - Premier League : Dinamo Moskva vs Baltika - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match Premier Russia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-573.php&redirect_stream=true&api_password=Cuca1989!
 
@@ -887,6 +889,72 @@ https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddyliv
 
 #EXTINF:-1 tvg-id="Canadian Premier League - Forge vs Pacific" tvg-name="01:00 Canadian Premier League : Forge vs Pacific - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", OneSoccer
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-68.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="HOPMAN CUP - Bronzetti L. vs Paquet C." tvg-name="17:30 HOPMAN CUP : Bronzetti L. vs Paquet C. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="HOPMAN CUP", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="HOPMAN CUP - Andreescu B. vs Bassols M." tvg-name="17:30 HOPMAN CUP : Andreescu B. vs Bassols M. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="HOPMAN CUP", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="HOPMAN CUP - Cobolli F. vs Gasquet R." tvg-name="19:00 HOPMAN CUP : Cobolli F. vs Gasquet R. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="HOPMAN CUP", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="HOPMAN CUP - Auger-Aliassime F. vs Bautista-Agut R." tvg-name="19:00 HOPMAN CUP : Auger-Aliassime F. vs Bautista-Agut R. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="HOPMAN CUP", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="ATP - BASTAD - De Jong J. vs Griekspoor T." tvg-name="11:00 ATP - BASTAD : De Jong J. vs Griekspoor T. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - BASTAD", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="ATP - BASTAD - Ugo Carabelli C. vs Misolic F." tvg-name="12:30 ATP - BASTAD : Ugo Carabelli C. vs Misolic F. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - BASTAD", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="ATP - BASTAD - Baez S. vs Darderi L." tvg-name="14:00 ATP - BASTAD : Baez S. vs Darderi L. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - BASTAD", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="ATP - BASTAD - Cerundolo F. vs Dzumhur D." tvg-name="15:30 ATP - BASTAD : Cerundolo F. vs Dzumhur D. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - BASTAD", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="ATP - GSTAAD - Burruchaga R. A. vs Buse I." tvg-name="10:30 ATP - GSTAAD : Burruchaga R. A. vs Buse I. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - GSTAAD", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="ATP - GSTAAD - Ruud C. vs Cerundolo J. M." tvg-name="13:30 ATP - GSTAAD : Ruud C. vs Cerundolo J. M. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - GSTAAD", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="ATP - GSTAAD - Comesana F. vs Bublik A." tvg-name="15:00 ATP - GSTAAD : Comesana F. vs Bublik A. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - GSTAAD", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="ATP - GSTAAD - Kym J. vs Cazaux A." tvg-name="17:30 ATP - GSTAAD : Kym J. vs Cazaux A. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - GSTAAD", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="ATP - LOS CABOS - Shapovalov D. vs Walton A." tvg-name="04:30 ATP - LOS CABOS : Shapovalov D. vs Walton A. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - LOS CABOS", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="ATP - LOS CABOS - Rublev A. vs Kovacevic A." tvg-name="06:00 ATP - LOS CABOS : Rublev A. vs Kovacevic A. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - LOS CABOS", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Romero Gormaz L. vs Juvan K." tvg-name="11:00 WTA - HAMBURG : Romero Gormaz L. vs Juvan K. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WTA - HAMBURG", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Galfi D. vs Yastremska D." tvg-name="12:30 WTA - HAMBURG : Galfi D. vs Yastremska D. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WTA - HAMBURG", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Alexandrova E. vs Bondar A." tvg-name="14:00 WTA - HAMBURG : Alexandrova E. vs Bondar A. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WTA - HAMBURG", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Boisson L. vs Tomova V." tvg-name="17:00 WTA - HAMBURG : Boisson L. vs Tomova V. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WTA - HAMBURG", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA - IASI - Waltert S. vs Teichmann J." tvg-name="09:30 WTA - IASI : Waltert S. vs Teichmann J. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WTA - IASI", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA - IASI - Carle M. L. vs Cirstea S." tvg-name="11:00 WTA - IASI : Carle M. L. vs Cirstea S. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WTA - IASI", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA - IASI - Begu I. vs Siskova A." tvg-name="12:30 WTA - IASI : Begu I. vs Siskova A. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WTA - IASI", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA - IASI - Udvardy P. vs Cristian J." tvg-name="14:00 WTA - IASI : Udvardy P. vs Cristian J. - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WTA - IASI", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
 #EXTINF:-1 tvg-id="ATP Tour 250 Bastad, Gstaad, Los Cabos, WTA Tour 250 Budapest, Hamburg - ATP Tour 250 Bastad, Gstaad, Los Cabos, WTA Tour 250 Budapest, Hamburg" tvg-name="10:30 ATP Tour 250 Bastad, Gstaad, Los Cabos, WTA Tour 250 Budapest, Hamburg - 18/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-40.php&redirect_stream=true&api_password=Cuca1989!
