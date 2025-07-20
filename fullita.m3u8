@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA Women's Euro - France vs Germany" tvg-name="20:00 UEFA Women's Euro : France vs Germany - 19/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ITV UK
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-350.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - France vs Germany" tvg-name="20:00 UEFA Women's Euro : France vs Germany - 19/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI Sport 1 IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Boxing - Mario Barrios vs Manny Pacquiao" tvg-name="01:00 Boxing : Mario Barrios vs Manny Pacquiao - 19/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxing", Amazon Prime Video
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-68.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UFC 318 Main Card - Max Holloway vs Dustin Poirier" tvg-name="03:00 UFC 318 Main Card : Max Holloway vs Dustin Poirier - 19/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="MMA", Eurosport 1 IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Friendly International - South Africa vs Georgia" tvg-name="16:10 Friendly International : South Africa vs Georgia - 19/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sport Arena IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-462.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="World Championship U20 - New Zealand U20 vs South Africa U20" tvg-name="19:30 World Championship U20 : New Zealand U20 vs South Africa U20 - 19/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sport Arena IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-462.php&redirect_stream=true&api_password=Cuca1989!
-
 #EXTINF:-1 tvg-id="Basketball 3x3 - Summer Universiade - Rhine-Ruhr 2025 medal zone" tvg-name="13:10 Basketball 3x3: Summer Universiade - Rhine-Ruhr 2025 medal zone - 20/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=Cuca1989!
 
