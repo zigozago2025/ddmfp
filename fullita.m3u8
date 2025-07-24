@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Club Friendly - Galatasaray vs Cagliari" tvg-name="18:30 Club Friendly : Galatasaray vs Cagliari - 23/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SDAZN Italia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-55.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Club Friendly - Ajax vs Celtic" tvg-name="19:30 Club Friendly : Ajax vs Celtic - 24/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="UEFA W. EURO - Germany vs Spain" tvg-name="20:00 UEFA W. EURO : Germany vs Spain - 23/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI Sport 1 IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="World Championship - Final" tvg-name="12:30 World Championship: Final - 24/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", RAI 2 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-851.php&redirect_stream=true&api_password=Cuca1989!
 
