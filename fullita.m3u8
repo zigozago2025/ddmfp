@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Club Friendly - Monaco vs Torino" tvg-name="17:00 Club Friendly : Monaco vs Torino - 30/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Italia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-55.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Club Friendly - Fenerbahçe vs Lazio" tvg-name="18:30 Club Friendly : Fenerbahçe vs Lazio - 30/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Italia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-59.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Premier League Summer Series - West Ham United vs Everton" tvg-name="23:30 Premier League Summer Series : West Ham United vs Everton - 30/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Premier League Summer Series - Manchester United vs AFC Bournemouth" tvg-name="02:30 Premier League Summer Series : Manchester United vs AFC Bournemouth - 30/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=Cuca1989!
+
