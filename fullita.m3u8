@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - Athlone Town vs UCD" tvg-name="17:00 Ireland Republic - First Division : Athlone Town vs UCD - 04/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-151.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - Cobh Ramblers vs Wexford" tvg-name="17:00 Ireland Republic - First Division : Cobh Ramblers vs Wexford - 04/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-152.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - Dundalk vs Longford Town" tvg-name="17:00 Ireland Republic - First Division : Dundalk vs Longford Town - 04/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-153.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - Finn Harps vs Bray Wanderers" tvg-name="17:00 Ireland Republic - First Division : Finn Harps vs Bray Wanderers - 04/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-154.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - Treaty United vs Kerry" tvg-name="17:00 Ireland Republic - First Division : Treaty United vs Kerry - 04/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-155.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Club Friendly - Empoli vs Sassuolo" tvg-name="17:30 Club Friendly : Empoli vs Sassuolo - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=Cuca1989!
 
