@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA Conference League - Aris vs AEK Athens" tvg-name="20:00 UEFA Conference League : Aris vs AEK Athens - 07/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 1 Cyprus
+#EXTINF:-1 tvg-id="UEFA Conference League - Araz vs Omonia Nicosia" tvg-name="18:00 UEFA Conference League : Araz vs Omonia Nicosia - 07/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 4 Cyprus
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-914.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="UEFA Conference League - Aris vs AEK Athens" tvg-name="18:00 UEFA Conference League : Aris vs AEK Athens - 07/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 1 Cyprus
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-911.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="UEFA Conference League - Aris vs AEK Athens" tvg-name="20:00 UEFA Conference League : Aris vs AEK Athens - 07/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cosmote Sport 2 Greece
+#EXTINF:-1 tvg-id="UEFA Conference League - Aris vs AEK Athens" tvg-name="18:00 UEFA Conference League : Aris vs AEK Athens - 07/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cosmote Sport 2 Greece
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-623.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Conference League - Araz vs Omonia Nicosia" tvg-name="17:00 UEFA Conference League : Araz vs Omonia Nicosia - 07/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 4 Cyprus
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-914.php&redirect_stream=true&api_password=Cuca1989!
 
 #EXTINF:-1 tvg-id="UEFA Conference League - Kauno Žalgiris vs Arda" tvg-name="18:00 UEFA Conference League : Kauno Žalgiris vs Arda - 07/08/25" tvg-logo="https://guardacalcio.blog/templates/calciostreaming1/images/logo.png" group-title="Soccer", Diema Sport 3 Bulgaria
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-467.php&redirect_stream=true&api_password=Cuca1989!
