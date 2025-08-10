@@ -1,40 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Shelbourne vs Bohemians" tvg-name="17:00 Ireland Republic - Premier Division : Shelbourne vs Bohemians - 09/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-178.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - Longford Town vs Treaty United" tvg-name="19:30 Ireland Republic - First Division : Longford Town vs Treaty United - 09/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-59.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Club Friendly - Manchester United vs Fiorentina" tvg-name="12:45 Club Friendly : Manchester United vs Fiorentina - 09/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Italia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-55.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Club Friendly - Köln vs Atalanta" tvg-name="14:30 Club Friendly : Köln vs Atalanta - 09/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Italia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-59.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Club Friendly - Werder Bremen vs Udinese" tvg-name="14:30 Club Friendly : Werder Bremen vs Udinese - 09/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Italia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-68.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Club Friendly - Leeds United vs Milan" tvg-name="15:00 Club Friendly : Leeds United vs Milan - 09/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Zona IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Club Friendly - Everton vs Roma" tvg-name="15:00 Club Friendly : Everton vs Roma - 09/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Italia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-69.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Club Friendly - Burnley vs Lazio" tvg-name="15:00 Club Friendly : Burnley vs Lazio - 09/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Italia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-76.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Club Friendly - Brest vs Sassuolo" tvg-name="17:00 Club Friendly : Brest vs Sassuolo - 09/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Club Friendly - Napoli vs Girona" tvg-name="18:00 Club Friendly : Napoli vs Girona - 09/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 251 IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-17.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Germany - Bundesliga 2 - Kaiserslautern vs Schalke 04" tvg-name="19:30 Germany - Bundesliga 2 : Kaiserslautern vs Schalke 04 - 09/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Arena IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-462.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Club Friendly - Palermo vs Manchester City" tvg-name="20:00 Club Friendly : Palermo vs Manchester City - 09/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=Cuca1989!
-
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Galway United vs Shamrock Rovers" tvg-name="17:00 Ireland Republic - Premier Division : Galway United vs Shamrock Rovers - 10/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-152.php&redirect_stream=true&api_password=Cuca1989!
 
