@@ -1,400 +1,214 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ukraine Premier League - Zorya vs Kudrivka" tvg-name="17:00 Ukraine Premier League : Zorya vs Kudrivka - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", UPL.TV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9000.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="UEFA Conference League - İstanbul Başakşehir vs Viking" tvg-name="18:00 UEFA Conference League : İstanbul Başakşehir vs Viking - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TRT 1 Turkey
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1012.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Michelsen A. vs Rune H." tvg-name="17:00 ATP - CINCINNATI : Michelsen A. vs Rune H. - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Rinderknech A. vs Auger-Aliassime F." tvg-name="17:00 ATP - CINCINNATI : Rinderknech A. vs Auger-Aliassime F. - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Tiafoe F. vs Humbert U." tvg-name="18:30 ATP - CINCINNATI : Tiafoe F. vs Humbert U. - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Fritz T. vs Sonego L." tvg-name="20:00 ATP - CINCINNATI : Fritz T. vs Sonego L. - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Tsitsipas S. vs Bonzi B." tvg-name="20:00 ATP - CINCINNATI : Tsitsipas S. vs Bonzi B. - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Fonseca J. vs Atmane T." tvg-name="21:30 ATP - CINCINNATI : Fonseca J. vs Atmane T. - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Sinner J. vs Diallo G." tvg-name="01:00 ATP - CINCINNATI : Sinner J. vs Diallo G. - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Mannarino A. vs Paul T." tvg-name="02:30 ATP - CINCINNATI : Mannarino A. vs Paul T. - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Alexandrova E. vs Joint M." tvg-name="17:00 WTA - CINCINNATI : Alexandrova E. vs Joint M. - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Bouzas Maneiro J. vs Townsend T." tvg-name="17:00 WTA - CINCINNATI : Bouzas Maneiro J. vs Townsend T. - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Cirstea S. vs Yuan Y." tvg-name="18:30 WTA - CINCINNATI : Cirstea S. vs Yuan Y. - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Sabalenka A. vs Raducanu E." tvg-name="18:30 WTA - CINCINNATI : Sabalenka A. vs Raducanu E. - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Sabalenka A. vs Raducanu E." tvg-name="18:30 WTA - CINCINNATI : Sabalenka A. vs Raducanu E. - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Kalinskaya A. vs Anisimova A." tvg-name="21:00 WTA - CINCINNATI : Kalinskaya A. vs Anisimova A. - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Ito A. vs Keys M." tvg-name="01:00 WTA - CINCINNATI : Ito A. vs Keys M. - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Rybakina E. vs Mertens E." tvg-name="02:30 WTA - CINCINNATI : Rybakina E. vs Mertens E. - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-40.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-46.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-113.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-701.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet One
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-411.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet Ontario
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-406.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet West
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-407.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet East
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-408.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TVA Sports
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-833.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV2 Portugal
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-74.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-393.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-915.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-396.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-491.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-492.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Digi Sport 2 Romania
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-401.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-474.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 Malaysia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-712.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-713.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="UEFA Conference League - İstanbul Başakşehir vs Viking" tvg-name="18:00 UEFA Conference League : İstanbul Başakşehir vs Viking - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SportKlub 1 Croatia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="UEFA Conference League - İstanbul Başakşehir vs Viking" tvg-name="18:00 UEFA Conference League : İstanbul Başakşehir vs Viking - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SportKlub 1 Slovenia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-28.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tenis
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-612.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="21:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="World Table Tennis Championship Yokohama - World Table Tennis Championship Yokohama" tvg-name="10:30 World Table Tennis Championship Yokohama - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Table Tennis", svt2 Sweden
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-5.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Asian Cup (M) - playoff for 1/4 Final 1" tvg-name="13:00 Asian Cup (M): playoff for 1/4 Final 1 - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Connecticut Sun W" tvg-name="04:00 WNBA : Golden State Valkyries W vs Connecticut Sun W - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBCS Boston
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-754.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Women's Volleyball - U-21 World Championship : Turkiye vs Czech Republic" tvg-name="08:00 Women's Volleyball: U-21 World Championship : Turkiye vs Czech Republic - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Women's Volleyball - U-21 World Championship : Poland vs Algeria" tvg-name="11:00 Women's Volleyball: U-21 World Championship : Poland vs Algeria - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Women's Volleyball - U-21 World Championship : Japan vs Bulgaria" tvg-name="14:00 Women's Volleyball: U-21 World Championship : Japan vs Bulgaria - 11/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Qarabağ vs Škendija 79" tvg-name="18:00 UEFA Champions League : Qarabağ vs Škendija 79 - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBC Sport Azerbaijan
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Feyenoord" tvg-name="19:00 UEFA Champions League : Fenerbahçe vs Feyenoord - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 1 NL
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-393.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Dynamo Kyiv" tvg-name="19:00 UEFA Champions League : Paphos vs Dynamo Kyiv - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cablenet Sports 1 Cyprus
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Dynamo Kyiv" tvg-name="19:00 UEFA Champions League : Paphos vs Dynamo Kyiv - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 2+2 Ukraine
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-5.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Dynamo Kyiv" tvg-name="19:00 UEFA Champions League : Paphos vs Dynamo Kyiv - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 3 Premium Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Dynamo Kyiv" tvg-name="19:00 UEFA Champions League : Paphos vs Dynamo Kyiv - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 3 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Dynamo Kyiv" tvg-name="19:00 UEFA Champions League : Paphos vs Dynamo Kyiv - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 2 Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-141.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Viktoria Plzeň vs Rangers" tvg-name="19:00 UEFA Champions League : Viktoria Plzeň vs Rangers - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sport 3 CZ
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-14.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Viktoria Plzeň vs Rangers" tvg-name="19:00 UEFA Champions League : Viktoria Plzeň vs Rangers - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sport 3 CZ
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1023.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - København vs Malmö FF" tvg-name="19:00 UEFA Champions League : København vs Malmö FF - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 2 Premium Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - København vs Malmö FF" tvg-name="19:00 UEFA Champions League : København vs Malmö FF - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 5 Live Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Club Brugge vs Salzburg" tvg-name="19:30 UEFA Champions League : Club Brugge vs Salzburg - 12/08/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-08/1754218369_calcio.jpg" group-title="Soccer", VTM 2 Belgium
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-7.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Club Brugge vs Salzburg" tvg-name="19:30 UEFA Champions League : Club Brugge vs Salzburg - 12/08/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-08/1754218369_calcio.jpg" group-title="Soccer", Servus TV Germany
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-16.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Club Brugge vs Salzburg" tvg-name="19:30 UEFA Champions League : Club Brugge vs Salzburg - 12/08/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-08/1754218369_calcio.jpg" group-title="Soccer", Arena 4 Premium Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-17.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Club Brugge vs Salzburg" tvg-name="19:30 UEFA Champions League : Club Brugge vs Salzburg - 12/08/25" tvg-logo="https://guardacalcio.blog/uploads/posts/2025-08/1754218369_calcio.jpg" group-title="Soccer", Arena Sport 1 Sloakia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-18.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Slovan Bratislava vs Kairat" tvg-name="20:15 UEFA Champions League : Slovan Bratislava vs Kairat - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RTVS Sport Slovakia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-19.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Slovan Bratislava vs Kairat" tvg-name="20:15 UEFA Champions League : Slovan Bratislava vs Kairat - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 5 Plus Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Ferencváros vs Ludogorets" tvg-name="20:15 UEFA Champions League : Ferencváros vs Ludogorets - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", M4 Sports Hungary
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-265.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Ferencváros vs Ludogorets" tvg-name="20:15 UEFA Champions League : Ferencváros vs Ludogorets - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Diema Sport 3 Bulgaria
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-467.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Ferencváros vs Ludogorets" tvg-name="20:15 UEFA Champions League : Ferencváros vs Ludogorets - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 3 Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-142.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Europa League - Shelbourne vs Rijeka" tvg-name="20:45 UEFA Europa League : Shelbourne vs Rijeka - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOI TV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-55.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Europa League - Shelbourne vs Rijeka" tvg-name="20:45 UEFA Europa League : Shelbourne vs Rijeka - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAXSport1 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-779.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Europa League - Shelbourne vs Rijeka" tvg-name="20:45 UEFA Europa League : Shelbourne vs Rijeka - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 BiH
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-579.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Nice" tvg-name="21:00 UEFA Champions League : Benfica vs Nice - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Premium 2 BiH HD
+#EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="21:00 England - League Cup : Birmingham City vs Sheffield United - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Premier League DE
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-8.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="UEFA Champions League - Benfica vs Nice" tvg-name="21:00 UEFA Champions League : Benfica vs Nice - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV+ Portugal
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-21.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Crvena Zvezda vs Lech Poznań" tvg-name="21:00 UEFA Champions League : Crvena Zvezda vs Lech Poznań - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TVP Sport Poland
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-128.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Crvena Zvezda vs Lech Poznań" tvg-name="21:00 UEFA Champions League : Crvena Zvezda vs Lech Poznań - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TVP2 Poland
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-561.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Crvena Zvezda vs Lech Poznań" tvg-name="21:00 UEFA Champions League : Crvena Zvezda vs Lech Poznań - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RTS 1 Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Crvena Zvezda vs Lech Poznań" tvg-name="21:00 UEFA Champions League : Crvena Zvezda vs Lech Poznań - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena 1 Premium Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Crvena Zvezda vs Lech Poznań" tvg-name="21:00 UEFA Champions League : Crvena Zvezda vs Lech Poznań - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 1 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Opelka R. vs Comesana F." tvg-name="17:00 ATP - CINCINNATI : Opelka R. vs Comesana F. - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Tiafoe F. vs Rune H." tvg-name="17:00 ATP - CINCINNATI : Tiafoe F. vs Rune H. - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Popyrin A. vs Rublev A." tvg-name="17:00 ATP - CINCINNATI : Popyrin A. vs Rublev A. - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Auger-Aliassime F. vs Bonzi B." tvg-name="18:30 ATP - CINCINNATI : Auger-Aliassime F. vs Bonzi B. - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Medjedovic H. vs Alcaraz C." tvg-name="20:00 ATP - CINCINNATI : Medjedovic H. vs Alcaraz C. - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Sinner J. vs Mannarino A." tvg-name="18:30 ATP - CINCINNATI : Sinner J. vs Mannarino A. - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Mensik J. vs Nardi L." tvg-name="20:00 ATP - CINCINNATI : Mensik J. vs Nardi L. - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Fritz T. vs Atmane T." tvg-name="20:00 ATP - CINCINNATI : Fritz T. vs Atmane T. - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Khachanov K. vs Brooksby J." tvg-name="20:00 ATP - CINCINNATI : Khachanov K. vs Brooksby J. - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Comesana F. vs Rublev A." tvg-name="21:30 ATP - CINCINNATI : Comesana F. vs Rublev A. - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Lehecka J. vs Walton A." tvg-name="23:00 ATP - CINCINNATI : Lehecka J. vs Walton A. - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Khachanov K. vs Zverev A." tvg-name="23:00 ATP - CINCINNATI : Khachanov K. vs Zverev A. - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Nakashima B. vs Zverev A." tvg-name="01:00 ATP - CINCINNATI : Nakashima B. vs Zverev A. - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Lehecka J. vs Shelton or Bautista-Agut" tvg-name="00:30 ATP - CINCINNATI : Lehecka J. vs Shelton or Bautista-Agut - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - CINCINNATI - Shelton B. vs Bautista-Agut R." tvg-name="01:00 ATP - CINCINNATI : Shelton B. vs Bautista-Agut R. - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Nardi L. vs Alcaraz C." tvg-name="01:00 ATP - CINCINNATI : Nardi L. vs Alcaraz C. - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - CINCINNATI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Seidel E. vs Kessler M." tvg-name="17:00 WTA - CINCINNATI : Seidel E. vs Kessler M. - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - CINCINNATI - Swiatek 1. vs Cirstea S." tvg-name="17:00 WTA - CINCINNATI : Swiatek 1. vs Cirstea S. - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Jovic I. vs Krejcikova B." tvg-name="17:00 WTA - CINCINNATI : Jovic I. vs Krejcikova B. - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - CINCINNATI - Rybakina E. vs Keys M." tvg-name="18:30 WTA - CINCINNATI : Rybakina E. vs Keys M. - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Gracheva V. vs Muchova K." tvg-name="20:00 WTA - CINCINNATI : Gracheva V. vs Muchova K. - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - CINCINNATI - Sabalenka A. vs Bouzas Maneiro J." tvg-name="21:00 WTA - CINCINNATI : Sabalenka A. vs Bouzas Maneiro J. - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Yastremska D. vs Gauff C." tvg-name="21:00 WTA - CINCINNATI : Yastremska D. vs Gauff C. - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - CINCINNATI - Alexandrova E. vs Kalinskaya A." tvg-name="02:30 WTA - CINCINNATI : Alexandrova E. vs Kalinskaya A. - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Bronzetti L. vs Ostapenko J." tvg-name="21:30 WTA - CINCINNATI : Bronzetti L. vs Ostapenko J. - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Linette M. vs Pegula J." tvg-name="01:00 WTA - CINCINNATI : Linette M. vs Pegula J. - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - CINCINNATI - Tauson C. vs Kudermetova V." tvg-name="02:30 WTA - CINCINNATI : Tauson C. vs Kudermetova V. - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - CINCINNATI", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-40.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-46.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-113.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-701.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet One
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet One
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-411.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet Ontario
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet Ontario
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-406.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet West
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet West
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-407.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet East
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet East
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-408.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TVA Sports
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TVA Sports
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-833.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV2 Portugal
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV2 Portugal
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-74.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-393.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-915.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-396.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-491.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-492.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-474.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 Malaysia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-712.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-713.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tenis
+#EXTINF:-1 tvg-id="ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA" tvg-name="17:00 ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tenis
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-612.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Asian Cup (M) - Play-off for 1/4 Finals 3" tvg-name="13:00 Asian Cup (M): Play-off for 1/4 Finals 3 - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Asian Cup (M) - 1/4 Final 1" tvg-name="13:00 Asian Cup (M): 1/4 Final 1 - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Afrobasket - Senegal vs Uganda" tvg-name="13:00 Afrobasket : Senegal vs Uganda - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 4 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Afrobasket - Madagascar vs Nigeria" tvg-name="15:30 Afrobasket : Madagascar vs Nigeria - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Afrobasket - South Sudan vs Guinea" tvg-name="15:00 Afrobasket : South Sudan vs Guinea - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 3 Croatia
+#EXTINF:-1 tvg-id="Afrobasket - Ivory Coast vs Rwanda" tvg-name="17:00 Afrobasket : Ivory Coast vs Rwanda - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 3 Croatia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Afrobasket - Mali vs Egypt" tvg-name="16:00 Afrobasket : Mali vs Egypt - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Norway vs. Denmark" tvg-name="18:00 FIBA WC, EU Pre-Qualifiers : Norway vs. Denmark - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV2 Sport 2 Norway
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-19.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Asian Cup (M) - Play-off for 1/4 Finals 4" tvg-name="18:00 Asian Cup (M): Play-off for 1/4 Finals 4 - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Romania vs North Macedonia" tvg-name="18:00 FIBA WC, EU Pre-Qualifiers : Romania vs North Macedonia - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Digi Sport 3 Romania
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-402.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Afrobasket - Angola vs Libya" tvg-name="20:00 Afrobasket : Angola vs Libya - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 4 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Romania vs North Macedonia" tvg-name="18:00 FIBA WC, EU Pre-Qualifiers : Romania vs North Macedonia - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Prima Sport 1 Romania
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-583.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Dallas Wings W" tvg-name="01:30 WNBA : Indiana Fever W vs Dallas Wings W - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN1
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-111.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Afrobasket - Tunisia vs Cameroon" tvg-name="18:30 Afrobasket : Tunisia vs Cameroon - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 8 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-77.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Dallas Wings W" tvg-name="01:30 WNBA : Indiana Fever W vs Dallas Wings W - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-114.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Switzerland vs Slovakia" tvg-name="18:50 FIBA WC, EU Pre-Qualifiers : Switzerland vs Slovakia - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", RSI La 2 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-12.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Dallas Wings W" tvg-name="01:30 WNBA : Indiana Fever W vs Dallas Wings W - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Switzerland vs Slovakia" tvg-name="18:50 FIBA WC, EU Pre-Qualifiers : Switzerland vs Slovakia - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", JOJ Sport Slovakia 2 HD
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-20.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Austria vs. Netherlands" tvg-name="19:20 FIBA WC, EU Pre-Qualifiers : Austria vs. Netherlands - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", HRT 2 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-6.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Austria vs. Netherlands" tvg-name="19:20 FIBA WC, EU Pre-Qualifiers : Austria vs. Netherlands - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ORF Sport Plus
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-21.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Austria vs. Netherlands" tvg-name="19:20 FIBA WC, EU Pre-Qualifiers : Austria vs. Netherlands - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sky Sport Austria 1
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-559.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Austria vs. Netherlands" tvg-name="19:20 FIBA WC, EU Pre-Qualifiers : Austria vs. Netherlands - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", VTM 2
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-22.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Austria vs. Netherlands" tvg-name="19:20 FIBA WC, EU Pre-Qualifiers : Austria vs. Netherlands - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Club RTL Belgium
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-59.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Afrobasket - D.R. Congo vs Cape Verde" tvg-name="20:00 Afrobasket : D.R. Congo vs Cape Verde - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 3 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Globl Jam Women - Canada vs Brazil" tvg-name="00:00 Globl Jam Women : Canada vs Brazil - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet One
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-411.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky vs Connecticut Sun" tvg-name="01:00 WNBA : Chicago Sky vs Connecticut Sun - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBC Sports Boston
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-754.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Washington Mystics" tvg-name="01:30 WNBA : Golden State Valkyries W vs Washington Mystics - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Monumental Sports Network
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-778.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Globl Jam Men - Brazil vs Canada" tvg-name="02:00 Globl Jam Men: Brazil vs Canada - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet One
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-411.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WNBA - Las Vegas Aces W vs New York Liberty W" tvg-name="03:30 WNBA : Las Vegas Aces W vs New York Liberty W - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-44.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Dallas Wings W" tvg-name="01:30 WNBA : Indiana Fever W vs Dallas Wings W - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN Deportes
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-375.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="WNBA - Las Vegas Aces W vs New York Liberty W" tvg-name="03:30 WNBA : Las Vegas Aces W vs New York Liberty W - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-114.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs New York Liberty W" tvg-name="04:00 WNBA : Los Angeles Sparks W vs New York Liberty W - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="WNBA - Las Vegas Aces W vs New York Liberty W" tvg-name="03:30 WNBA : Las Vegas Aces W vs New York Liberty W - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN1
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-111.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs New York Liberty W" tvg-name="04:00 WNBA : Los Angeles Sparks W vs New York Liberty W - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MY9TV USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-654.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="WNBA - Atlanta Dream vs Seattle Storm" tvg-name="04:00 WNBA : Atlanta Dream vs Seattle Storm - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs New York Liberty W" tvg-name="04:00 WNBA : Los Angeles Sparks W vs New York Liberty W - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Spectrum SportsNet
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-982.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Beach Volleyball Pro Tour (W) - Beach Volleyball Pro Tour (W)" tvg-name="15:30 Beach Volleyball Pro Tour (W) - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 4 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs New York Liberty W" tvg-name="04:00 WNBA : Los Angeles Sparks W vs New York Liberty W - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Live Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Beach Volleyball Pro Tour (W) - Beach Volleyball Pro Tour (W)" tvg-name="16:00 Beach Volleyball Pro Tour (W) - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub HD Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Women's Volleyball - U-21 World Championship : Italy vs Türkiye" tvg-name="03:00 Women's Volleyball: U-21 World Championship : Italy vs Türkiye - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+#EXTINF:-1 tvg-id="European Championship Qualification - Czech Republic vs. Montenegro" tvg-name="18:00 European Championship Qualification : Czech Republic vs. Montenegro - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", CT Sport Czech HD
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-24.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="European Championships - Slovakia vs Latvia" tvg-name="19:00 European Championships : Slovakia vs Latvia - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Women's Volleyball - U-21 World Championship : Poland vs Czech Republic" tvg-name="10:50 Women's Volleyball: U-21 World Championship : Poland vs Czech Republic - 12/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="European Championships - Slovakia vs Latvia" tvg-name="19:00 European Championships : Slovakia vs Latvia - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", JOJ Sport Slovakia HD
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-25.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="European Championship Qualification - Spain vs. Switzerland" tvg-name="19:30 European Championship Qualification : Spain vs. Switzerland - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Teledeporte Spain (TDP)
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-529.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="European Championship Qualification - Spain vs. Switzerland" tvg-name="19:30 European Championship Qualification : Spain vs. Switzerland - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SRF Zwei Switzerland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-26.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="European Championship Qualification - Croatia vs. Estonia" tvg-name="20:30 European Championship Qualification : Croatia vs. Estonia - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SPTV Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-27.php&redirect_stream=true&api_password=Cuca1989!
 
