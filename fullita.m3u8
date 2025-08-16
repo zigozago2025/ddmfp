@@ -1,37 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ireland Republic - FAI Cup - Cork City vs Waterford United" tvg-name="19:45 Ireland Republic - FAI Cup : Cork City vs Waterford United - 15/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-156.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - FAI Cup - Finn Harps vs Bray Wanderers" tvg-name="19:45 Ireland Republic - FAI Cup : Finn Harps vs Bray Wanderers - 15/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-157.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - FAI Cup - Bohemians vs Sligo Rovers" tvg-name="19:45 Ireland Republic - FAI Cup : Bohemians vs Sligo Rovers - 15/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-158.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - FAI Cup - Kerry vs Cobh Ramblers" tvg-name="19:45 Ireland Republic - FAI Cup : Kerry vs Cobh Ramblers - 15/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-159.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - FAI Cup - Salthill Devon vs Galway United" tvg-name="19:45 Ireland Republic - FAI Cup : Salthill Devon vs Galway United - 15/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-160.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Coppa Italia - Empoli vs Reggiana" tvg-name="17:00 Coppa Italia : Empoli vs Reggiana - 15/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 20 Mediaset IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Coppa Italia - Sassuolo vs Catanzaro" tvg-name="17:30 Coppa Italia : Sassuolo vs Catanzaro - 15/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Italia 1 IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-854.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Coppa Italia - Lecce vs Juve Stabia" tvg-name="19:45 Coppa Italia : Lecce vs Juve Stabia - 15/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 20 Mediaset IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="England Premier League - Liverpool vs AFC Bournemouth" tvg-name="20:00 England Premier League : Liverpool vs AFC Bournemouth - 15/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Coppa Italia - Genoa vs Vicenza" tvg-name="20:15 Coppa Italia : Genoa vs Vicenza - 15/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Italia 1 IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-854.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="IBF Title Fights - Davis vs Roach II" tvg-name="00:00 IBF Title Fights : Davis vs Roach II - 15/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxing", Amazon Prime Video
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-55.php&redirect_stream=true&api_password=Cuca1989!
-
 #EXTINF:-1 tvg-id="England - Premier League - Aston Villa vs Newcastle United" tvg-name="12:30 England - Premier League : Aston Villa vs Newcastle United - 16/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=Cuca1989!
 
