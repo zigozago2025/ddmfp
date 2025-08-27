@@ -794,6 +794,10 @@ https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//timlivet
 # Canali aggiunti da Hattrick
 #EXTINF:-1 tvg-id="" tvg-name="euro1hd " tvg-logo="" group-title="Altro", euro1hd (Hd)
 https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750&api_password=Cuca1989!
+
+# Canali aggiunti da Hattrick
+#EXTINF:-1 tvg-id="" tvg-name="euro1hd " tvg-logo="" group-title="Altro", euro1hd (Hd)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750&api_password=Cuca1989!
 #EXTINF:-1 tvg-id="UEFA Europa League - AEK Larnaca vs Brann" tvg-name="18:30 UEFA Europa League : AEK Larnaca vs Brann - 27/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Cytavision Sports 1 Cyprus
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-911.php&redirect_stream=true&api_password=Cuca1989!
 
