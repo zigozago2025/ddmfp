@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Italy - Serie C - Forli vs Ravenna" tvg-name="19:30 Italy - Serie C : Forli vs Ravenna - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 251 IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-3.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Forli vs Ravenna" tvg-name="19:30 Italy - Serie C : Forli vs Ravenna - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Rai Sport IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Forli vs Ravenna" tvg-name="19:30 Italy - Serie C : Forli vs Ravenna - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Nuova Monterosi vs Pineto" tvg-name="20:00 Italy - Serie C : Nuova Monterosi vs Pineto - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 252 IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="World Championship Women - USA W vs Canada W" tvg-name="11:00 World Championship Women : USA W vs Canada W - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Zona DAZN IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="World Championship Women - Turkey W vs Slovenia W" tvg-name="14:30 World Championship Women : Turkey W vs Slovenia W - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Zona DAZN IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=Cuca1989!
-
 #EXTINF:-1 tvg-id="EuroBasket - Italy vs Spain" tvg-name="19:30 EuroBasket : Italy vs Spain - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Rai 2 IT
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-851.php&redirect_stream=true&api_password=Cuca1989!
 
