@@ -65,3 +65,6 @@ https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddyliv
 #EXTINF:-1 tvg-id="World Cup Women - Italy W vs Brazil W" tvg-name="14:00 World Cup Women : Italy W vs Brazil W - 07/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Rai Sport Italy
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
 
+#EXTINF:-1 tvg-id="World Cup Qualifying - Israel vs Italy" tvg-name="19:45 World Cup Qualifying : Israel vs Italy - 08/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI 1 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-850.php&redirect_stream=true&api_password=Cuca1989!
+
