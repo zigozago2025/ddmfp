@@ -816,105 +816,12 @@ https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//timlivet
 https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750&api_password=Cuca1989!
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EuroSport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EuroSport 1 (H)
 https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750&api_password=Cuca1989!
-#EXTINF:-1 tvg-id="UEFA Champions League Women Qualification - GKS Katowice vs. FC Twente Enschede" tvg-name="18:00 UEFA Champions League Women Qualification : GKS Katowice vs. FC Twente Enschede - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN 1 NL
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-379.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Canadian Premier League - Valour vs Forge" tvg-name="02:00 Canadian Premier League : Valour vs Forge - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", FOX Sports 2 USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-758.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - GUADALAJARA - Hunter S. vs Arango E." tvg-name="22:00 WTA - GUADALAJARA : Hunter S. vs Arango E. - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - GUADALAJARA", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - GUADALAJARA - Jimenez Kasintseva V. vs Kudermetova V." tvg-name="22:00 WTA - GUADALAJARA : Jimenez Kasintseva V. vs Kudermetova V. - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - GUADALAJARA", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - GUADALAJARA - Mertens E. vs Jacquemot E." tvg-name="23:30 WTA - GUADALAJARA : Mertens E. vs Jacquemot E. - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - GUADALAJARA", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - GUADALAJARA - Osorio C. vs Jovic I." tvg-name="00:00 WTA - GUADALAJARA : Osorio C. vs Jovic I. - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - GUADALAJARA", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - GUADALAJARA - Ostapenko J. vs Stakusic M." tvg-name="02:00 WTA - GUADALAJARA : Ostapenko J. vs Stakusic M. - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - GUADALAJARA", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - GUADALAJARA - Stefanini L. vs Frech M." tvg-name="03:30 WTA - GUADALAJARA : Stefanini L. vs Frech M. - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - GUADALAJARA", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - SAO PAOLO - Cengiz B. vs Zarazua R." tvg-name="20:00 WTA - SAO PAOLO : Cengiz B. vs Zarazua R. - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SAO PAOLO", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - SAO PAOLO - Candiotto A. vs Udvardy P." tvg-name="22:30 WTA - SAO PAOLO : Candiotto A. vs Udvardy P. - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SAO PAOLO", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - SAO PAOLO - Haddad Maia B. vs Pigossi L." tvg-name="00:00 WTA - SAO PAOLO : Haddad Maia B. vs Pigossi L. - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - SAO PAOLO", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Guadalajara-WTA & Sao Paulo-WTA Early Rounds - Guadalajara-WTA & Sao Paulo-WTA Early Rounds" tvg-name="18:00 Guadalajara-WTA & Sao Paulo-WTA Early Rounds - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-40.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Guadalajara-WTA & Sao Paulo-WTA Early Rounds - Guadalajara-WTA & Sao Paulo-WTA Early Rounds" tvg-name="18:00 Guadalajara-WTA & Sao Paulo-WTA Early Rounds - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports+
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-36.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Guadalajara-WTA & Sao Paulo-WTA Early Rounds - Guadalajara-WTA & Sao Paulo-WTA Early Rounds" tvg-name="18:00 Guadalajara-WTA & Sao Paulo-WTA Early Rounds - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-884.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Guadalajara-WTA & Sao Paulo-WTA Early Rounds - Guadalajara-WTA & Sao Paulo-WTA Early Rounds" tvg-name="18:00 Guadalajara-WTA & Sao Paulo-WTA Early Rounds - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Guadalajara-WTA & Sao Paulo-WTA Early Rounds - Guadalajara-WTA & Sao Paulo-WTA Early Rounds" tvg-name="18:00 Guadalajara-WTA & Sao Paulo-WTA Early Rounds - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tennis
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-612.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Guadalajara-WTA & Sao Paulo-WTA Early Rounds - Guadalajara-WTA & Sao Paulo-WTA Early Rounds" tvg-name="18:00 Guadalajara-WTA & Sao Paulo-WTA Early Rounds - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-701.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Guadalajara-WTA & Sao Paulo-WTA Early Rounds - Guadalajara-WTA & Sao Paulo-WTA Early Rounds" tvg-name="18:00 Guadalajara-WTA & Sao Paulo-WTA Early Rounds - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Canal+ Sport 2 Poland
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-73.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Guadalajara-WTA & Sao Paulo-WTA Early Rounds - Guadalajara-WTA & Sao Paulo-WTA Early Rounds" tvg-name="18:00 Guadalajara-WTA & Sao Paulo-WTA Early Rounds - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Guadalajara-WTA & Sao Paulo-WTA Early Rounds - Guadalajara-WTA & Sao Paulo-WTA Early Rounds" tvg-name="18:00 Guadalajara-WTA & Sao Paulo-WTA Early Rounds - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="League Cup - Maccabi Raanana vs Bnei Herzliya" tvg-name="19:00 League Cup : Maccabi Raanana vs Bnei Herzliya - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israell
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs New York Liberty W" tvg-name="02:00 WNBA : Chicago Sky W vs New York Liberty W - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN5
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs New York Liberty W" tvg-name="02:00 WNBA : Chicago Sky W vs New York Liberty W - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MY9TV USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-654.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs New York Liberty W" tvg-name="02:00 WNBA : Chicago Sky W vs New York Liberty W - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs Dallas Wings W" tvg-name="02:00 WNBA : Phoenix Mercury W vs Dallas Wings W - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries vs Minnesota Lynx W" tvg-name="02:00 WNBA : Golden State Valkyries vs Minnesota Lynx W - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries vs Minnesota Lynx W" tvg-name="02:00 WNBA : Golden State Valkyries vs Minnesota Lynx W - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network Kansas City
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-895.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries vs Minnesota Lynx W" tvg-name="02:00 WNBA : Golden State Valkyries vs Minnesota Lynx W - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network North
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-898.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Las Vegas Aces W" tvg-name="04:00 WNBA : Los Angeles Sparks W vs Las Vegas Aces W - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Las Vegas Aces W" tvg-name="04:00 WNBA : Los Angeles Sparks W vs Las Vegas Aces W - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Spectrum SportsNet USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-982.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Las Vegas Aces W" tvg-name="04:00 WNBA : Los Angeles Sparks W vs Las Vegas Aces W - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet 360 CA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-409.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Las Vegas Aces W" tvg-name="04:00 WNBA : Los Angeles Sparks W vs Las Vegas Aces W - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Men's volleyball - PLS 1st league : MCKiS Jaworzno vs PZL LEONARDO Avia Świdnik" tvg-name="20:30 Men's volleyball: PLS 1st league : MCKiS Jaworzno vs PZL LEONARDO Avia Świdnik - 11/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=Cuca1989!
-
+# Canali aggiunti da Hattrick
+#EXTINF:-1 tvg-id="" tvg-name="euro1hd " tvg-logo="" group-title="Altro", euro1hd (Hd)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EuroSport 1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EuroSport 1 (H)
+https://cucas2025-zigozago.hf.space/proxy/mpd/manifest.m3u8?d=https%3A//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750&api_password=Cuca1989!
 #EXTINF:-1 tvg-id="Ukraine Premier League - Oleksandria vs LNZ Cherkasy" tvg-name="14:30 Ukraine Premier League : Oleksandria vs LNZ Cherkasy - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", UPL.TV
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9000.php&redirect_stream=true&api_password=Cuca1989!
 
