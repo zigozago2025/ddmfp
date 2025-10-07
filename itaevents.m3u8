@@ -1,205 +1,244 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Germany - Frauen-Bundesliga - Hamburger SV vs Hoffenheim" tvg-name="18:00 Germany - Frauen-Bundesliga : Hamburger SV vs Hoffenheim - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Magenta Sport 301
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Germany - Frauen-Bundesliga - Hamburger SV vs Hoffenheim" tvg-name="18:00 Germany - Frauen-Bundesliga : Hamburger SV vs Hoffenheim - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport1 DE
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-641.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Germany - Frauen-Bundesliga - Hamburger SV vs Hoffenheim" tvg-name="18:00 Germany - Frauen-Bundesliga : Hamburger SV vs Hoffenheim - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN1 DE
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-426.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Auger-Aliassime F. vs De Jong J." tvg-name="06:30 ATP - SHANGHAI : Auger-Aliassime F. vs De Jong J. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Diallo G. vs Bergs Z." tvg-name="06:30 ATP - SHANGHAI : Diallo G. vs Bergs Z. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Majchrzak K. vs De Minaur A." tvg-name="06:30 ATP - SHANGHAI : Majchrzak K. vs De Minaur A. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Diallo G. vs Bergs Z." tvg-name="06:30 ATP - SHANGHAI : Diallo G. vs Bergs Z. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Krajicek A./Mektic N. vs Harrison C./King E." tvg-name="06:30 ATP - SHANGHAI : Krajicek A./Mektic N. vs Harrison C./King E. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Cash R./Tracy J. vs Krawietz K./Puetz T." tvg-name="06:30 ATP - SHANGHAI : Cash R./Tracy J. vs Krawietz K./Puetz T. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Shang J. vs Borges N." tvg-name="08:00 ATP - SHANGHAI : Shang J. vs Borges N. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Mpetshi Perricard G. vs Rune H." tvg-name="08:00 ATP - SHANGHAI : Mpetshi Perricard G. vs Rune H. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Shapovalov D. vs Lehecka J." tvg-name="08:00 ATP - SHANGHAI : Shapovalov D. vs Lehecka J. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Mpetshi Perricard G. vs Rune H." tvg-name="08:00 ATP - SHANGHAI : Mpetshi Perricard G. vs Rune H. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Arevalo M./Pavic M. vs Skupski N./Smith J. P." tvg-name="08:00 ATP - SHANGHAI : Arevalo M./Pavic M. vs Skupski N./Smith J. P. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Andreozzi G./Guinard M. vs Cerundolo F./Darderi L." tvg-name="08:00 ATP - SHANGHAI : Andreozzi G./Guinard M. vs Cerundolo F./Darderi L. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Darderi L. vs Musetti L." tvg-name="09:30 ATP - SHANGHAI : Darderi L. vs Musetti L. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Munar J. vs Djokovic N." tvg-name="12:30 ATP - SHANGHAI : Munar J. vs Djokovic N. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Peers J./Zielinski J. vs Schnaitter J./Wallner M." tvg-name="09:30 ATP - SHANGHAI : Peers J./Zielinski J. vs Schnaitter J./Wallner M. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Munar J. vs Djokovic N." tvg-name="12:30 ATP - SHANGHAI : Munar J. vs Djokovic N. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Tien L. vs Norrie C." tvg-name="11:00 ATP - SHANGHAI : Tien L. vs Norrie C. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Munar J. vs Djokovic N." tvg-name="12:30 ATP - SHANGHAI : Munar J. vs Djokovic N. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Bu Y./Ho R. vs Heliovaara H./Patten H." tvg-name="11:00 ATP - SHANGHAI : Bu Y./Ho R. vs Heliovaara H./Patten H. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Vacherot V. vs Griekspoor T." tvg-name="14:00 ATP - SHANGHAI : Vacherot V. vs Griekspoor T. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Zverev A. vs Rinderknech A." tvg-name="12:30 ATP - SHANGHAI : Zverev A. vs Rinderknech A. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Vacherot V. vs Griekspoor T." tvg-name="14:00 ATP - SHANGHAI : Vacherot V. vs Griekspoor T. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Davidovich Fokina A. vs Medvedev D." tvg-name="14:00 ATP - SHANGHAI : Davidovich Fokina A. vs Medvedev D. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Arango E. vs Samsonova L." tvg-name="05:00 WTA - WUHAN : Arango E. vs Samsonova L. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Krueger A. vs Baptiste H." tvg-name="05:00 WTA - WUHAN : Krueger A. vs Baptiste H. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Kessler M. vs Cristian J." tvg-name="05:00 WTA - WUHAN : Kessler M. vs Cristian J. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Osorio C. vs Bouzkova M." tvg-name="05:00 WTA - WUHAN : Osorio C. vs Bouzkova M. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Zakharova A. vs Kenin S." tvg-name="05:00 WTA - WUHAN : Zakharova A. vs Kenin S. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Yastremska D. vs Siegemund L." tvg-name="05:00 WTA - WUHAN : Yastremska D. vs Siegemund L. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Osaka N. vs Fernandez L." tvg-name="05:00 WTA - WUHAN : Osaka N. vs Fernandez L. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Yastremska D. vs Siegemund L." tvg-name="05:00 WTA - WUHAN : Yastremska D. vs Siegemund L. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Osaka N. vs Fernandez L." tvg-name="05:00 WTA - WUHAN : Osaka N. vs Fernandez L. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Gracheva V. vs Bouzas Maneiro J." tvg-name="06:30 WTA - WUHAN : Gracheva V. vs Bouzas Maneiro J. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Osaka N. vs Fernandez L." tvg-name="05:00 WTA - WUHAN : Osaka N. vs Fernandez L. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Gracheva V. vs Bouzas Maneiro J." tvg-name="06:30 WTA - WUHAN : Gracheva V. vs Bouzas Maneiro J. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Frech M. vs Kudermetova V." tvg-name="06:30 WTA - WUHAN : Frech M. vs Kudermetova V. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Mertens E. vs Kudermetova P." tvg-name="06:30 WTA - WUHAN : Mertens E. vs Kudermetova P. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Kostyuk M. vs Muchova K." tvg-name="06:30 WTA - WUHAN : Kostyuk M. vs Muchova K. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Siniakova K. vs Shnaider D." tvg-name="06:30 WTA - WUHAN : Siniakova K. vs Shnaider D. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Sramkova R. vs Kalinskaya A." tvg-name="06:30 WTA - WUHAN : Sramkova R. vs Kalinskaya A. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Danilovic 0. vs Tauson C." tvg-name="08:00 WTA - WUHAN : Danilovic 0. vs Tauson C. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Raducanu E. vs Li A." tvg-name="06:30 WTA - WUHAN : Raducanu E. vs Li A. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Ruzic A. vs Linette M." tvg-name="08:00 WTA - WUHAN : Ruzic A. vs Linette M. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Raducanu E. vs Li A." tvg-name="06:30 WTA - WUHAN : Raducanu E. vs Li A. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Ruzic A. vs Linette M." tvg-name="08:00 WTA - WUHAN : Ruzic A. vs Linette M. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Raducanu E. vs Li A." tvg-name="06:30 WTA - WUHAN : Raducanu E. vs Li A. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Zhu L. vs Joint M." tvg-name="08:00 WTA - WUHAN : Zhu L. vs Joint M. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Navarro E. vs Zhang S." tvg-name="08:00 WTA - WUHAN : Navarro E. vs Zhang S. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Bronzetti L. vs Yuan Y." tvg-name="10:00 WTA - WUHAN : Bronzetti L. vs Yuan Y. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Navarro E. vs Zhang S." tvg-name="08:00 WTA - WUHAN : Navarro E. vs Zhang S. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Uchijima M. vs Wang Xin." tvg-name="13:30 WTA - WUHAN : Uchijima M. vs Wang Xin. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Bencic B. vs Vekic D." tvg-name="08:30 WTA - WUHAN : Bencic B. vs Vekic D. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Alexandrova E. vs Mboko V." tvg-name="15:00 WTA - WUHAN : Alexandrova E. vs Mboko V. - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Noskova L. vs Putintseva Y." tvg-name="08:30 WTA - WUHAN : Noskova L. vs Putintseva Y. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai" tvg-name="06:30 WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+#EXTINF:-1 tvg-id="WTA - WUHAN - Cirstea S. vs Ostapenko J." tvg-name="10:00 WTA - WUHAN : Cirstea S. vs Ostapenko J. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA - WUHAN - Bouzkova M. vs Swiatek I." tvg-name="13:00 WTA - WUHAN : Bouzkova M. vs Swiatek I. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA - WUHAN - Bouzkova M. vs Swiatek I." tvg-name="13:00 WTA - WUHAN : Bouzkova M. vs Swiatek I. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA - WUHAN - Andreeva M. vs Siegemund L." tvg-name="14:30 WTA - WUHAN : Andreeva M. vs Siegemund L. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="WTA - WUHAN - Andreeva M. vs Siegemund L." tvg-name="14:30 WTA - WUHAN : Andreeva M. vs Siegemund L. - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-40.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai" tvg-name="06:30 WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports+
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports+
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-36.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai" tvg-name="06:30 WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 France
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 France
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-117.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai" tvg-name="06:30 WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-46.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai" tvg-name="06:30 WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-884.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai" tvg-name="06:30 WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai" tvg-name="06:30 WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-701.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai" tvg-name="06:30 WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tennis
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tennis
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-612.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai" tvg-name="06:30 WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai" tvg-name="06:30 WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", MAX Sport 1 Bulgaria
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", MAX Sport 1 Bulgaria
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai" tvg-name="06:30 WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 3 NL
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 3 NL
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-919.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai" tvg-name="06:30 WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-393.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-491.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai" tvg-name="06:30 WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-492.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai" tvg-name="06:30 WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-396.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai" tvg-name="06:30 WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai" tvg-name="06:30 WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+#EXTINF:-1 tvg-id="Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - Shanghai-ATP Round of 16; Wuhan-WTA 1st Round" tvg-name="14:30 Shanghai-ATP Round of 16; Wuhan-WTA 1st Round - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-713.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Center Court Live Shanghai-ATP 3rd Round; Wuhan-WTA 1st Round - Center Court Live Shanghai-ATP 3rd Round; Wuhan-WTA 1st Round" tvg-name="13:00 Center Court Live Shanghai-ATP 3rd Round; Wuhan-WTA 1st Round - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-40.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Eurocup - Neptunas vs Cluj Napoca" tvg-name="18:00 Eurocup : Neptunas vs Cluj Napoca - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 302
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Center Court Live Shanghai-ATP 3rd Round; Wuhan-WTA 1st Round - Center Court Live Shanghai-ATP 3rd Round; Wuhan-WTA 1st Round" tvg-name="13:00 Center Court Live Shanghai-ATP 3rd Round; Wuhan-WTA 1st Round - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Eurocup - Neptunas vs Cluj Napoca" tvg-name="18:00 Eurocup : Neptunas vs Cluj Napoca - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 2 Premium Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Center Court Live Shanghai-ATP Round of 16; Wuhan-WTA 1st Round LIVE - Center Court Live Shanghai-ATP Round of 16; Wuhan-WTA 1st Round LIVE" tvg-name="05:00 Center Court Live Shanghai-ATP Round of 16; Wuhan-WTA 1st Round LIVE - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-40.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Eurocup - Neptunas vs Cluj Napoca" tvg-name="18:00 Eurocup : Neptunas vs Cluj Napoca - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-637.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Center Court Live Shanghai-ATP Round of 16; Wuhan-WTA 1st Round LIVE - Center Court Live Shanghai-ATP Round of 16; Wuhan-WTA 1st Round LIVE" tvg-name="05:00 Center Court Live Shanghai-ATP Round of 16; Wuhan-WTA 1st Round LIVE - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Eurocup - Neptunas vs Cluj Napoca" tvg-name="18:00 Eurocup : Neptunas vs Cluj Napoca - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", STV1 Slovenia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-11.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Turkiye, TBL - Harem Spor vs. Buyuksehir Belediyesi Kagit SK" tvg-name="16:00 Turkiye, TBL : Harem Spor vs. Buyuksehir Belediyesi Kagit SK - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", HT Spor Turkiye
+#EXTINF:-1 tvg-id="Eurocup - Neptunas vs Cluj Napoca" tvg-name="18:00 Eurocup : Neptunas vs Cluj Napoca - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 2 Crotaia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Champions League - Promitheas Patras BC vs. MLP Academics Heidelberg" tvg-name="18:00 Champions League : Promitheas Patras BC vs. MLP Academics Heidelberg - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sport 5 CZ
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1025.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="ABA League 2 - Podgorica vs Borac" tvg-name="18:00 ABA League 2 : Podgorica vs Borac - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 2 Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-430.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Champions League - Basketball Nymburk vs. BK Sabah Baku" tvg-name="18:30 Champions League : Basketball Nymburk vs. BK Sabah Baku - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sport 1 Czech HD
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1021.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Champions League - Lietuvos Rytas vs Legia" tvg-name="19:00 Champions League : Lietuvos Rytas vs Legia - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TVP Sport Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-128.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Champions League - Lietuvos Rytas vs Legia" tvg-name="19:00 Champions League : Lietuvos Rytas vs Legia - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Go3 Sport 1 Estonia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-12.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Eurocup - Ulm vs Panionios" tvg-name="19:00 Eurocup : Ulm vs Panionios - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 303
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-2.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Eurocup - Ulm vs Panionios" tvg-name="19:00 Eurocup : Ulm vs Panionios - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 4 Premium Serbia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ABA League - Dubai vs Split" tvg-name="17:00 ABA League : Dubai vs Split - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 2 Premium Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Eurocup - Ulm vs Panionios" tvg-name="19:00 Eurocup : Ulm vs Panionios - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Prime Greece
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-638.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Slovenian league - Podčetrtek vs Šenčur" tvg-name="17:30 Slovenian league : Podčetrtek vs Šenčur - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 4 Crotaia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Eurocup - Ulm vs Panionios" tvg-name="19:00 Eurocup : Ulm vs Panionios - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", STV3 Slovenia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-13.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Poland, PLK - Anwil Wroclawek vs. GTK Gliwice" tvg-name="18:00 Poland, PLK : Anwil Wroclawek vs. GTK Gliwice - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport Extra 4 Poland
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-5.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Eurocup - Ulm vs Panionios" tvg-name="19:00 Eurocup : Ulm vs Panionios - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MAX Sport 1 Bulgaria
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Süper Ligi - Fenerbahce Istanbul vs. Petkim Spor Aliaga" tvg-name="18:00 Süper Ligi : Fenerbahce Istanbul vs. Petkim Spor Aliaga - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS 5 Turkey
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1010.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Eurocup - Ulm vs Panionios" tvg-name="19:00 Eurocup : Ulm vs Panionios - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 3 Crotaia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Süper Ligi - Fenerbahce Istanbul vs. Petkim Spor Aliaga" tvg-name="18:00 Süper Ligi : Fenerbahce Istanbul vs. Petkim Spor Aliaga - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 5 Premium Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-3.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ABA League - Partizan vs KK Krka Novo Mesto" tvg-name="18:00 ABA League : Partizan vs KK Krka Novo Mesto - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Bulgaria, NBL - Lokomotiv Plovdiv 1926 vs. Cherno More IG" tvg-name="18:15 Bulgaria, NBL : Lokomotiv Plovdiv 1926 vs. Cherno More IG - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Max Sport 2 Bulgaria
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ABA League - Crvena zvezda vs Zadar" tvg-name="20:00 ABA League : Crvena zvezda vs Zadar - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="LNB - Le Mans vs Paris" tvg-name="20:00 LNB : Le Mans vs Paris - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 1x2 Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-6.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="LNB - Le Mans vs Paris" tvg-name="20:00 LNB : Le Mans vs Paris - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Crotaia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Basket Napoli" tvg-name="20:00 Lega A : Virtus Bologna vs Basket Napoli - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 2 Premium Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Basket Napoli" tvg-name="20:00 Lega A : Virtus Bologna vs Basket Napoli - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 1 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-432.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Basket Napoli" tvg-name="20:00 Lega A : Virtus Bologna vs Basket Napoli - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 1 Israel
+#EXTINF:-1 tvg-id="Eurocup - Ulm vs Panionios" tvg-name="19:00 Eurocup : Ulm vs Panionios - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 1 Israel
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-140.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Serie A1 Women - Busto Arsizio W vs Conegliano W" tvg-name="20:30 Serie A1 Women : Busto Arsizio W vs Conegliano W - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Rai Sport 1 Italy HD
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Eurocup - Besiktas vs London Lions" tvg-name="19:00 Eurocup : Besiktas vs London Lions - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 304
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-3.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Serie A1 Women - Monza W vs Bergamo W" tvg-name="20:30 Serie A1 Women : Monza W vs Bergamo W - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Zona DAZN IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Eurocup - Besiktas vs London Lions" tvg-name="19:00 Eurocup : Besiktas vs London Lions - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport TV2 Portugal
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-74.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Athletes Unlimited Pro Volleyball Teams TBA E - Athletes Unlimited Pro Volleyball Teams TBA E" tvg-name="00:30 Athletes Unlimited Pro Volleyball Teams TBA E - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SPNU USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-316.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Eurocup - Besiktas vs London Lions" tvg-name="19:00 Eurocup : Besiktas vs London Lions - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports 4 Greece
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-634.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Athletes Unlimited Pro Volleyball Teams TBA - Athletes Unlimited Pro Volleyball Teams TBA" tvg-name="03:00 Athletes Unlimited Pro Volleyball Teams TBA - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", ESPNU USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-316.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Eurocup - Besiktas vs London Lions" tvg-name="19:00 Eurocup : Besiktas vs London Lions - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 3 Premium Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Eurocup - Besiktas vs London Lions" tvg-name="19:00 Eurocup : Besiktas vs London Lions - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", STV2 Slovenia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-14.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Eurocup - Besiktas vs London Lions" tvg-name="19:00 Eurocup : Besiktas vs London Lions - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MAX Sport 2 Bulgaria
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Eurocup - Besiktas vs London Lions" tvg-name="19:00 Eurocup : Besiktas vs London Lions - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Crotaia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Champions League - Galatasaray vs Igokea" tvg-name="19:00 Champions League : Galatasaray vs Igokea - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Champions League - VEF Riga vs AEK Athens" tvg-name="20:00 Champions League : VEF Riga vs AEK Athens - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sport 5 CZ
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1025.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="ABA League 2 - MZT Skopje vs Vrsac" tvg-name="20:00 ABA League 2 : MZT Skopje vs Vrsac - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 2 Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-430.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Serie A - Sala Consilina vs Came Treviso" tvg-name="20:30 Serie A : Sala Consilina vs Came Treviso - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Sky Sport Calcio Italy
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Beach Volleyball - Pro Tour: Newport Beach - Qualifiers" tvg-name="17:00 Beach Volleyball : Pro Tour: Newport Beach - Qualifiers - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 4 Crotaia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Beach Volleyball - Pro Tour: Newport Beach - Qualifiers" tvg-name="17:00 Beach Volleyball : Pro Tour: Newport Beach - Qualifiers - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub HD Crotaia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="French Cup - Levallois women vs Mulhouse women" tvg-name="20:30 French Cup : Levallois women vs Mulhouse women - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", beIN Sports 1 France
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-116.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Women's College Volleyball - Valparaiso vs Illinois-Chicago" tvg-name="01:00 Women's College Volleyball : Valparaiso vs Illinois-Chicago - 07/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Marquee Sports Network
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-770.php&redirect_stream=true&api_password=Cuca1989!
 
