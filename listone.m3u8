@@ -3,35 +3,38 @@
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Intrattenimento;Rai Tv",RAI 1 (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1225653759/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1144128726/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1925964148/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Intrattenimento;Rai Tv",RAI 3 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/869117599/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 5 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2909818756/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Sky",CIELO (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3743894403/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1759625738/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 1 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1492183364/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="Sky Cinema Collection" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film;Sky",SKY CINEMA COLLECTION (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3525837057/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 9 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1753260677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Notizie;Rai Tv",RAI NEWS 24 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2239645272/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 3 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/573618724/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3448075317/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (BACKUP) (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2242741766/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2289038972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1101559666/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTOGP (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2090703806/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2235732004/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3445562519/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/78546677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -39,251 +42,239 @@ https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca198
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film;Sky",SKY CINEMA SUSPENSE (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3060043751/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1925964148/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1144128726/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 2 (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/525374356/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 5 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2909818756/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la7.it" tvg-name="La 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/775530063/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film;Sky",SKY CINEMA COMEDY (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3131104474/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 6 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3939513684/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3554841914/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2317684453/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3192996672/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/924661659/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3445562519/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2235732004/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2745635299/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Intrattenimento;Rai Tv",RAI 2 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/246253359/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/449990998/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Intrattenimento;Rai Tv",RAI 3 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/869117599/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="Mediaset 20" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",MEDIASET 20 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3134481201/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/322024849/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Sky",SKY ATLANTIC (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1482866609/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila4.it" tvg-name="Sky Primafila 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 4 (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2416993844/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Sky",SKY ATLANTIC (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1482866609/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film;Sky",SKY CINEMA COMEDY (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3131104474/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 9 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1753260677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/449990998/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 10 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2268489342/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2317684453/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT [LIVE DURING EVENTS ONLY] (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/551730224/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/322024849/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 1 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1492183364/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 8 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1440779061/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/11090349/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1425667375/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Discovery",TOP CRIME (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3420407456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 7 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3618643172/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Intrattenimento;Rai Tv",RAI 2 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/246253359/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Discovery",DMAX (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3803638765/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari;Discovery",DISCOVERY NOVE (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1574591400/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT [LIVE DURING EVENTS ONLY] (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/551730224/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/326825326/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2289038972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3802167244/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 3 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/573618724/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3022771961/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari;Sky",SKY ARTE (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1902695925/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3216516117/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2290395046/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",FOCUS (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2982550433/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2881739927/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film;Sky",SKY CINEMA DUE (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2330574729/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 7 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3618643172/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tg Com 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="Notizie;Mediaset",TG COM 24 (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1785098768/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film;Sky",SKY CINEMA ROMANCE (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1281264885/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3802167244/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="super!.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2900362153/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="disney+film.it" tvg-name="Disney+ Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film",DISNEY+ FILM (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1264775727/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="animalplanet.it" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Sky",ANIMAL PLANET (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1908877526/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="iris.it" tvg-name="Mediaset Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Intrattenimento;Mediaset",MEDIASET IRIS (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/23919988/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2134724757/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="focustv.it" tvg-name="Discovery Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",DISCOVERY FOCUS (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2113273064/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="k2.it" tvg-name="Discovery K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini;Discovery",DISCOVERY K2 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3037871903/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1078650168/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3009377513/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Sky Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/558282118/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2828455552/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Intrattenimento;Discovery",REAL TIME (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2251241999/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Intrattenimento;Rai Tv",RAI SCUOLA (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1886684667/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="Sky Cinema Collection" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film;Sky",SKY CINEMA COLLECTION (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3525837057/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raistoria.it" tvg-name="Rai Storia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Intrattenimento;Rai Tv",RAI STORIA (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/57338653/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Intrattenimento;Rai Tv",RAI 4 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2179822223/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2828455552/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1289777017/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1759625738/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Discovery",FOOD NETWORK (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2767861049/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/11090349/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1989309231/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2745635299/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Intrattenimento;Rai Tv",RAI YOYO (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1890950169/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 8 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1440779061/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raisport+.it" tvg-name="Rai Sport+" tvg-logo="" group-title="Sport;Rai Tv",RAI SPORT+ (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/843891896/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3192996672/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Sky",TV 8 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2706291008/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 10 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2268489342/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (BACKUP) (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2178717282/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Discovery",TOP CRIME (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3420407456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Intrattenimento;Rai Tv",RAI 5 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3163380543/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/326825326/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="wwechannel.it" tvg-name="Wwe Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Discovery",WWE CHANNEL (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2989824407/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2290395046/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 Twenty Seven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTY SEVEN (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/608774683/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTOGP (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2090703806/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 6 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3939513684/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia (backup)" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (BACKUP) (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3165086929/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Intrattenimento;Discovery",REAL TIME (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2251241999/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="la7.it" tvg-name="La 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/775530063/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3216516117/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="super!.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2900362153/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari;Sky",SKY ARTE (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1902695925/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Discovery",FOOD NETWORK (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2767861049/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film;Sky",SKY CINEMA DUE (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2330574729/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film;Sky",SKY CINEMA ROMANCE (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1281264885/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2134724757/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="wwechannel.it" tvg-name="Wwe Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Discovery",WWE CHANNEL (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2989824407/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1425667375/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (BACKUP) (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2242741766/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3009377513/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3022771961/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Intrattenimento;Rai Tv",RAI 4 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2179822223/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3554841914/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 Twenty Seven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTY SEVEN (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/608774683/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="iris.it" tvg-name="Mediaset Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Intrattenimento;Mediaset",MEDIASET IRIS (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/23919988/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2881739927/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Notizie;Rai Tv",RAI NEWS 24 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2239645272/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",FOCUS (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2982550433/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1289777017/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="giallo.it" tvg-name="Giallo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/4060499455/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="foxhd.it" tvg-name="Fox" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film;Sky",FOX (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/563160609/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Intrattenimento;Rai Tv",RAI YOYO (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1890950169/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/318057128/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Sky Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/558282118/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="hgtv.it" tvg-name="Hgtv" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Discovery",HGTV (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/4248997029/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Intrattenimento;Rai Tv",RAI SCUOLA (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1886684667/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="italia2.it" tvg-name="Mediaset Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Intrattenimento;Mediaset",MEDIASET ITALIA 2 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3538009430/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (BACKUP) (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2178717282/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari;Discovery",DISCOVERY NOVE (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1574591400/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1907000512/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Sky",TV 8 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2706291008/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raisport+.it" tvg-name="Rai Sport+" tvg-logo="" group-title="Sport;Rai Tv",RAI SPORT+ (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/843891896/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Intrattenimento;Rai Tv",RAI 5 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3163380543/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="animalplanet.it" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Sky",ANIMAL PLANET (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1908877526/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="Mediaset 20" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",MEDIASET 20 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3134481201/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/924661659/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1989309231/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="disney+film.it" tvg-name="Disney+ Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film",DISNEY+ FILM (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1264775727/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3475299702/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="italia2.it" tvg-name="Mediaset Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Intrattenimento;Mediaset",MEDIASET ITALIA 2 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3538009430/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2555960713/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1699876530/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/433893159/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/318057128/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="sportitaliasolocalcio.it" tvg-name="Sport Italia Solo Calcio [live During Events Only]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport;Mediaset",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/830949486/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="focustv.it" tvg-name="Discovery Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",DISCOVERY FOCUS (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2113273064/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1699876530/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/444768053/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Intrattenimento;Rai Tv",RAI GULP (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1803677691/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="nationalgeographicwild.it" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari;Sky",NAT GEO WILD (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3229664409/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="k2.it" tvg-name="Discovery K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini;Discovery",DISCOVERY K2 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3037871903/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Intrattenimento;Mediaset",CINE 34 MEDIASET (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1768670187/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="mediaset1.it" tvg-name="Mediaset 1" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET 1 (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/633342961/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -291,17 +282,20 @@ https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca198
 #EXTINF:-1 tvg-id="nationalgeohd.it" tvg-name="Nat Geo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari;Sky",NAT GEO (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/179844839/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Intrattenimento;Mediaset",CINE 34 MEDIASET (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1768670187/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Intrattenimento;Rai Tv",RAI GULP (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1803677691/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/433893159/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1078650168/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="foxhd.it" tvg-name="Fox" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film;Sky",FOX (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/563160609/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="catfish.it" tvg-name="Catfish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Catfish%2C_the_TV_Show_Logo.PNG" group-title="Altro",CATFISH (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2381583828/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="nationalgeographicwild.it" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari;Sky",NAT GEO WILD (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3229664409/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3897711086/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/294457245/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -312,14 +306,20 @@ https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca198
 #EXTINF:-1 tvg-id="rakutenfamily.it" tvg-name="Rakuten Family" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN FAMILY (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3902650955/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/3897711086/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="hgtv.it" tvg-name="Hgtv" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Discovery",HGTV (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/4248997029/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rakutencomedymovies.it" tvg-name="Rakuten Comedy Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN COMEDY MOVIES (V)
+https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1109372778/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="rakutendrama.it" tvg-name="Rakuten Drama" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN DRAMA (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/2098624390/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raisüdtirol.it" tvg-name="Rai Südtirol" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI SÜDTIROL (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/441082840/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rakutencomedymovies.it" tvg-name="Rakuten Comedy Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN COMEDY MOVIES (V)
-https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1109372778/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rakutentopfree.it" tvg-name="Rakuten Top Free" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN TOP FREE (V)
 https://cucas2025-zigozago.hf.space/proxy/hls/manifest.m3u8?api_password=Cuca1989!&d=https://vavoo.to/play/1572866962/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -452,359 +452,291 @@ https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddyliv
 
 
 # Canali aggiunti da Hattrick
+#EXTINF:-1 tvg-id="World Cup Qualifying - Finland vs Lithuania" tvg-name="18:00 World Cup Qualifying : Finland vs Lithuania - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=Cuca1989!
 
-# Canali aggiunti da Hattrick
+#EXTINF:-1 tvg-id="Friendly - England vs Wales" tvg-name="20:45 Friendly : England vs Wales - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports Premier League Greece
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-599.php&redirect_stream=true&api_password=Cuca1989!
 
-# Canali aggiunti da Hattrick
+#EXTINF:-1 tvg-id="Friendly - England vs Wales" tvg-name="20:45 Friendly : England vs Wales - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=Cuca1989!
 
-# Canali aggiunti da Hattrick
+#EXTINF:-1 tvg-id="Friendly - England vs Wales" tvg-name="20:45 Friendly : England vs Wales - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports Premier League
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-599.php&redirect_stream=true&api_password=Cuca1989!
 
-# Canali aggiunti da Hattrick
+#EXTINF:-1 tvg-id="Canada - Canadian Premier League - York United vs Pacific" tvg-name="01:30 Canada - Canadian Premier League : York United vs Pacific - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Soccer Plus
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true&api_password=Cuca1989!
 
-# Canali aggiunti da Hattrick
-
-# Canali aggiunti da Hattrick
-
-# Canali aggiunti da Hattrick
-#EXTINF:-1 tvg-id="International Clubs UEFA Europa Cup Women - Slavia Prague vs. FK Austria Wien - International Clubs UEFA Europa Cup Women - Slavia Prague vs. FK Austria Wien" tvg-name="14:45 International Clubs UEFA Europa Cup Women - Slavia Prague vs. FK Austria Wien - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CT Sport Czech
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1033.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="International Clubs UEFA Europa Cup Women - Sparta Prague vs. Ferencvarosi Budapest - International Clubs UEFA Europa Cup Women - Sparta Prague vs. Ferencvarosi Budapest" tvg-name="19:00 International Clubs UEFA Europa Cup Women - Sparta Prague vs. Ferencvarosi Budapest - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CT Sport Czech
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1033.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Brazil - Serie B - Avaí vs Volta Redonda" tvg-name="02:00 Brazil - Serie B : Avaí vs Volta Redonda - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+#EXTINF:-1 tvg-id="Brazil - Serie B - Remo vs Athletico-PR" tvg-name="02:35 Brazil - Serie B : Remo vs Athletico-PR - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Rinderknech A. vs Lehecka J." tvg-name="06:30 ATP - SHANGHAI : Rinderknech A. vs Lehecka J. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Gonzalez S./Pel D. vs Krawietz K./Puetz T." tvg-name="09:00 ATP - SHANGHAI : Gonzalez S./Pel D. vs Krawietz K./Puetz T. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Rinderknech A. vs Lehecka J." tvg-name="06:30 ATP - SHANGHAI : Rinderknech A. vs Lehecka J. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Rune H. vs Vacherot V." tvg-name="09:00 ATP - SHANGHAI : Rune H. vs Vacherot V. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Borges N. vs De Minaur A." tvg-name="08:00 ATP - SHANGHAI : Borges N. vs De Minaur A. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Rune H. vs Vacherot V." tvg-name="09:00 ATP - SHANGHAI : Rune H. vs Vacherot V. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Borges N. vs De Minaur A." tvg-name="08:00 ATP - SHANGHAI : Borges N. vs De Minaur A. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Bergs Z. vs Djokovic N." tvg-name="12:30 ATP - SHANGHAI : Bergs Z. vs Djokovic N. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Arevalo M./Pavic M. vs Krajicek A./Mektic N." tvg-name="09:00 ATP - SHANGHAI : Arevalo M./Pavic M. vs Krajicek A./Mektic N. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Bergs Z. vs Djokovic N." tvg-name="12:30 ATP - SHANGHAI : Bergs Z. vs Djokovic N. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Schnaitter J./Wallner M. vs Goransson A./Michelsen A." tvg-name="10:30 ATP - SHANGHAI : Schnaitter J./Wallner M. vs Goransson A./Michelsen A. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - SHANGHAI - Andreozzi G./Guinard M. vs Heliovaara H./Patten H." tvg-name="14:00 ATP - SHANGHAI : Andreozzi G./Guinard M. vs Heliovaara H./Patten H. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Auger-Aliassime F. vs Musetti L." tvg-name="12:30 ATP - SHANGHAI : Auger-Aliassime F. vs Musetti L. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Jovic 1. vs Siniakova K." tvg-name="05:00 WTA - WUHAN : Jovic 1. vs Siniakova K. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Auger-Aliassime F. vs Musetti L." tvg-name="12:30 ATP - SHANGHAI : Auger-Aliassime F. vs Musetti L. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Alexandrova E. vs Pegula J." tvg-name="05:00 WTA - WUHAN : Alexandrova E. vs Pegula J. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Tien L. vs Medvedev D." tvg-name="14:00 ATP - SHANGHAI : Tien L. vs Medvedev D. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Alexandrova E. vs Pegula J." tvg-name="05:00 WTA - WUHAN : Alexandrova E. vs Pegula J. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="ATP - SHANGHAI - Tien L. vs Medvedev D." tvg-name="14:00 ATP - SHANGHAI : Tien L. vs Medvedev D. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis ATP - SHANGHAI", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Alexandrova E. vs Pegula J." tvg-name="05:00 WTA - WUHAN : Alexandrova E. vs Pegula J. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Alexandrova E. vs Li A." tvg-name="05:00 WTA - WUHAN : Alexandrova E. vs Li A. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Siegemund L. vs Frech M." tvg-name="06:30 WTA - WUHAN : Siegemund L. vs Frech M. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Joint M. vs Siniakova K." tvg-name="05:00 WTA - WUHAN : Joint M. vs Siniakova K. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Sabalenka A. vs Samsonova L." tvg-name="06:30 WTA - WUHAN : Sabalenka A. vs Samsonova L. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Jovic 1. vs Bouzas Maneiro J." tvg-name="05:00 WTA - WUHAN : Jovic 1. vs Bouzas Maneiro J. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Sabalenka A. vs Samsonova L." tvg-name="06:30 WTA - WUHAN : Sabalenka A. vs Samsonova L. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Baptiste H. vs Pegula J." tvg-name="05:00 WTA - WUHAN : Baptiste H. vs Pegula J. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Sabalenka A. vs Samsonova L." tvg-name="06:30 WTA - WUHAN : Sabalenka A. vs Samsonova L. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Baptiste H. vs Pegula J." tvg-name="05:00 WTA - WUHAN : Baptiste H. vs Pegula J. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Paolini J. vs Tauson C." tvg-name="08:30 WTA - WUHAN : Paolini J. vs Tauson C. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Baptiste H. vs Pegula J." tvg-name="05:00 WTA - WUHAN : Baptiste H. vs Pegula J. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Paolini J. vs Tauson C." tvg-name="08:30 WTA - WUHAN : Paolini J. vs Tauson C. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Frech M. vs Muchova K." tvg-name="06:30 WTA - WUHAN : Frech M. vs Muchova K. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Noskova L. vs Rybakina E." tvg-name="09:00 WTA - WUHAN : Noskova L. vs Rybakina E. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Kenin S. vs Samsonova L." tvg-name="06:30 WTA - WUHAN : Kenin S. vs Samsonova L. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Andreeva M./Shnaider D. vs Siegemund L./Stollar F." tvg-name="10:00 WTA - WUHAN : Andreeva M./Shnaider D. vs Siegemund L./Stollar F. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Uchijima M. vs Gauff C." tvg-name="06:30 WTA - WUHAN : Uchijima M. vs Gauff C. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Fernandez L./Routliffe E. vs Noskova L./Sramkova R." tvg-name="11:00 WTA - WUHAN : Fernandez L./Routliffe E. vs Noskova L./Sramkova R. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Uchijima M. vs Gauff C." tvg-name="06:30 WTA - WUHAN : Uchijima M. vs Gauff C. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Errani S./Paolini J. vs Andreescu B./Yuan Y." tvg-name="11:30 WTA - WUHAN : Errani S./Paolini J. vs Andreescu B./Yuan Y. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Bencic B. vs Mertens E." tvg-name="07:00 WTA - WUHAN : Bencic B. vs Mertens E. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Bencic 8. vs Swiatek I." tvg-name="13:00 WTA - WUHAN : Bencic 8. vs Swiatek I. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Sabalenka A. vs Sramkova R." tvg-name="08:00 WTA - WUHAN : Sabalenka A. vs Sramkova R. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Bencic 8. vs Swiatek I." tvg-name="13:00 WTA - WUHAN : Bencic 8. vs Swiatek I. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Sabalenka A. vs Sramkova R." tvg-name="08:00 WTA - WUHAN : Sabalenka A. vs Sramkova R. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Zhang S. vs Gauff C." tvg-name="14:30 WTA - WUHAN : Zhang S. vs Gauff C. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Ruzic A. vs Tauson C." tvg-name="08:00 WTA - WUHAN : Ruzic A. vs Tauson C. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Zhang S. vs Gauff C." tvg-name="14:30 WTA - WUHAN : Zhang S. vs Gauff C. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Zhang S. vs Cirstea S." tvg-name="08:30 WTA - WUHAN : Zhang S. vs Cirstea S. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WUHAN - Zhang S. vs Gauff C." tvg-name="14:30 WTA - WUHAN : Zhang S. vs Gauff C. - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="WTA - WUHAN - Osaka N. vs Noskova L." tvg-name="10:00 WTA - WUHAN : Osaka N. vs Noskova L. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - WUHAN - Paolini J. vs Yuan Y." tvg-name="13:00 WTA - WUHAN : Paolini J. vs Yuan Y. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - WUHAN - Paolini J. vs Yuan Y." tvg-name="13:00 WTA - WUHAN : Paolini J. vs Yuan Y. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - WUHAN - Cristian J. vs Rybakina E." tvg-name="14:30 WTA - WUHAN : Cristian J. vs Rybakina E. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="WTA - WUHAN - Cristian J. vs Rybakina E." tvg-name="14:30 WTA - WUHAN : Cristian J. vs Rybakina E. - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis WTA - WUHAN", Tennis Stream
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-40.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports+
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-113.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports+
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-36.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 France
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 France
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-117.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-46.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-884.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-701.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tennis
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tennis
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-612.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", MAX Sport 1 Bulgaria
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", MAX Sport 1 Bulgaria
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-396.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-393.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-491.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-492.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-396.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3" tvg-name="13:00 2025 Dongfeng Voyah Wuhan Open Tennis WTA Early Round Coverage, Day 3 - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+#EXTINF:-1 tvg-id="Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round" tvg-name="12:30 Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-713.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Romania, Liga Nationala - Csm Corona Brasov vs. CS Municipal Galati" tvg-name="16:00 Romania, Liga Nationala : Csm Corona Brasov vs. CS Municipal Galati - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Digi Sport 3 Romania
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-402.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Romania, Liga Nationala - Csm Corona Brasov vs. CS Municipal Galati" tvg-name="16:00 Romania, Liga Nationala : Csm Corona Brasov vs. CS Municipal Galati - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Prima Sport 1 Romania
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-583.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="United Cup - Uralmash Yekaterinburg vs Zenit St. Petersburg" tvg-name="16:00 United Cup : Uralmash Yekaterinburg vs Zenit St. Petersburg - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Match TV Russia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-127.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Champions League - Hapoel Holon BC vs. Bursaspor" tvg-name="17:00 Champions League : Hapoel Holon BC vs. Bursaspor - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sport 2 CZ
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1022.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Champions League - Hapoel Holon BC vs. Bursaspor" tvg-name="17:00 Champions League : Hapoel Holon BC vs. Bursaspor - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Euroleague Women - Olympiacos W vs Valencia W" tvg-name="17:30 Euroleague Women : Olympiacos W vs Valencia W - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Ellas Vamos Spain
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-108.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Romania, Liga Nationala - BCS Rapid Bucuresti vs. Steaua CSM Bucurest" tvg-name="17:45 Romania, Liga Nationala : BCS Rapid Bucuresti vs. Steaua CSM Bucurest - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Digi Sport 3 Romania
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-402.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Romania, Liga Nationala - BCS Rapid Bucuresti vs. Steaua CSM Bucurest" tvg-name="17:45 Romania, Liga Nationala : BCS Rapid Bucuresti vs. Steaua CSM Bucurest - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Prima Sport 1 Romania
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-583.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Liga Leumit - Hapoel Eilat vs Maccabi Petah Tikva" tvg-name="17:50 Liga Leumit : Hapoel Eilat vs Maccabi Petah Tikva - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport 2 Poland
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Champions League - Szolnoki Olaj Kk vs. Astrum Levice" tvg-name="17:50 Champions League : Szolnoki Olaj Kk vs. Astrum Levice - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sport 1 CZ
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1021.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Euroleague Women - Sopron Basket vs. Flammes Carolo Basket" tvg-name="18:00 Euroleague Women : Sopron Basket vs. Flammes Carolo Basket - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", M4 Sport Hungry
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-265.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Eurocup - Bahcesehir Koleji vs Venezia" tvg-name="18:00 Eurocup : Bahcesehir Koleji vs Venezia - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 301
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-3.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Eurocup - Bahcesehir Koleji vs Venezia" tvg-name="18:00 Eurocup : Bahcesehir Koleji vs Venezia - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Eurocup - Bahcesehir Koleji vs Venezia" tvg-name="18:00 Eurocup : Bahcesehir Koleji vs Venezia - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", STV2 Slovenia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-109.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Eurocup - Bahcesehir Koleji vs Venezia" tvg-name="18:00 Eurocup : Bahcesehir Koleji vs Venezia - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports 5 Greece
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-635.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Eurocup - Bahcesehir Koleji vs Venezia" tvg-name="18:00 Eurocup : Bahcesehir Koleji vs Venezia - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Crotaia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Eurocup - Bahcesehir Koleji vs Venezia" tvg-name="18:00 Eurocup : Bahcesehir Koleji vs Venezia - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 4 Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-143.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="ABA League 2 - Siroki Brijeg vs Sutjeska" tvg-name="18:00 ABA League 2 : Siroki Brijeg vs Sutjeska - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 5 Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-940.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Eurocup - Niners Chemnitz vs. BC Lietkabelis Panevezys" tvg-name="18:45 Eurocup : Niners Chemnitz vs. BC Lietkabelis Panevezys - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 302
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Eurocup - Niners Chemnitz vs. BC Lietkabelis Panevezys" tvg-name="18:45 Eurocup : Niners Chemnitz vs. BC Lietkabelis Panevezys - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MAX Sport 2 Bulgaria
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Croatia, Premijer Liga - Kk Cedevita Zagreb Junior vs. Kk Split" tvg-name="18:55 Croatia, Premijer Liga : Kk Cedevita Zagreb Junior vs. Kk Split - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Max Sport 1 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-779.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Slovakia, Extraliga - BC Prievidza vs. Nitra Blue Wings" tvg-name="19:00 Slovakia, Extraliga : BC Prievidza vs. Nitra Blue Wings - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", JOJ Sport Slovakia HD
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-17.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Eurocup - Aris vs Hamburg" tvg-name="19:00 Eurocup : Aris vs Hamburg - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 303
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-5.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Eurocup - Aris vs Hamburg" tvg-name="19:00 Eurocup : Aris vs Hamburg - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Prime Greece
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-638.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Champions League - Tofas vs Bnei Herzliya" tvg-name="19:00 Champions League : Tofas vs Bnei Herzliya - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Euroleague Women - Landes W vs Zaragoza W" tvg-name="19:30 Euroleague Women : Landes W vs Zaragoza W - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Ellas Vamos Spain
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-108.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Eurocup - JL Bourg vs Turk Telekom" tvg-name="19:30 Eurocup : JL Bourg vs Turk Telekom - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 304
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-6.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Eurocup - JL Bourg vs Turk Telekom" tvg-name="19:30 Eurocup : JL Bourg vs Turk Telekom - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 4 Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-581.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Eurocup - JL Bourg vs Turk Telekom" tvg-name="19:30 Eurocup : JL Bourg vs Turk Telekom - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-637.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Romania, Liga Nationala - CSM CSU Oradea vs. CSM Ploiesti" tvg-name="19:30 Romania, Liga Nationala : CSM CSU Oradea vs. CSM Ploiesti - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Digi Sport 3 Romania
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-402.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Romania, Liga Nationala - CSM CSU Oradea vs. CSM Ploiesti" tvg-name="19:30 Romania, Liga Nationala : CSM CSU Oradea vs. CSM Ploiesti - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Prima Sport 1 Romania
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-583.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Euroleague Women - Uni Girona W vs Basket Gdynia W" tvg-name="20:00 Euroleague Women : Uni Girona W vs Basket Gdynia W - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", M+ Vamos Spain
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-521.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Champions League - KK Spartak Office Shoes Subotica vs Le Mans Basket" tvg-name="20:00 Champions League : KK Spartak Office Shoes Subotica vs Le Mans Basket - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 4 Croatia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-580.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Maccabi Tel Aviv" tvg-name="20:00 Euroleague : Hapoel Tel-Aviv vs Maccabi Tel Aviv - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 307
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-7.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Maccabi Tel Aviv" tvg-name="20:00 Euroleague : Hapoel Tel-Aviv vs Maccabi Tel Aviv - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Oneplay Sport 1 CZ
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1027.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Maccabi Tel Aviv" tvg-name="20:00 Euroleague : Hapoel Tel-Aviv vs Maccabi Tel Aviv - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes 3 Spain
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-526.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Maccabi Tel Aviv" tvg-name="20:00 Euroleague : Hapoel Tel-Aviv vs Maccabi Tel Aviv - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Maccabi Tel Aviv" tvg-name="20:00 Euroleague : Hapoel Tel-Aviv vs Maccabi Tel Aviv - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport 2 Poland
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Maccabi Tel Aviv" tvg-name="20:00 Euroleague : Hapoel Tel-Aviv vs Maccabi Tel Aviv - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports 4 Greece
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-634.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Maccabi Tel Aviv" tvg-name="20:00 Euroleague : Hapoel Tel-Aviv vs Maccabi Tel Aviv - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MAX Sport 1 Bulgaria
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Maccabi Tel Aviv" tvg-name="20:00 Euroleague : Hapoel Tel-Aviv vs Maccabi Tel Aviv - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Crotaia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Maccabi Tel Aviv" tvg-name="20:00 Euroleague : Hapoel Tel-Aviv vs Maccabi Tel Aviv - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+#EXTINF:-1 tvg-id="National Basketball League - Maccabi Ashdod vs Elitzur Ashkelon" tvg-name="07:30 National Basketball League : Maccabi Ashdod vs Elitzur Ashkelon - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Eurocup - Hapoel M. Jerusalem vs Cedevita Olimpija" tvg-name="20:00 Eurocup : Hapoel M. Jerusalem vs Cedevita Olimpija - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 306
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-8.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Israeli Women Basketball Premier League - Maccabi Ashdod vs Hapoel Lev Jerusalem" tvg-name="16:45 Israeli Women Basketball Premier League : Maccabi Ashdod vs Hapoel Lev Jerusalem - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Eurocup - Hapoel M. Jerusalem vs Cedevita Olimpija" tvg-name="20:00 Eurocup : Hapoel M. Jerusalem vs Cedevita Olimpija - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 4 Premium Serbia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Slovenia1. A SKL - KK Ilirija vs KK Krka Novo Mesto" tvg-name="18:00 Slovenia1. A SKL : KK Ilirija vs KK Krka Novo Mesto - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", STV1 Slovenia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-86.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Eurocup - Hapoel M. Jerusalem vs Cedevita Olimpija" tvg-name="20:00 Eurocup : Hapoel M. Jerusalem vs Cedevita Olimpija - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", STV1 Slovenia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-69.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Euroleague Women - DVTK Miskolc vs. Fenerbahce SK" tvg-name="18:00 Euroleague Women : DVTK Miskolc vs. Fenerbahce SK - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", M4 Sport Hungary
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-265.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Eurocup - Hapoel M. Jerusalem vs Cedevita Olimpija" tvg-name="20:00 Eurocup : Hapoel M. Jerusalem vs Cedevita Olimpija - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 2 Crotaia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Euroleague - Baskonia Vitoria-Gasteiz vs. Panathinaikos BC" tvg-name="20:30 Euroleague : Baskonia Vitoria-Gasteiz vs. Panathinaikos BC - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 303
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-21.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Eurocup - Hapoel M. Jerusalem vs Cedevita Olimpija" tvg-name="20:00 Eurocup : Hapoel M. Jerusalem vs Cedevita Olimpija - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 1 Israel
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-140.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Euroleague - Baskonia Vitoria-Gasteiz vs. Panathinaikos BC" tvg-name="20:30 Euroleague : Baskonia Vitoria-Gasteiz vs. Panathinaikos BC - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", M+ #Vamos ES
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-521.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Eurocup - Buducnost vs Trento" tvg-name="20:00 Eurocup : Buducnost vs Trento - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 305
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Eurocup - Buducnost vs Trento" tvg-name="20:00 Eurocup : Buducnost vs Trento - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 3 Premium Serbia
+#EXTINF:-1 tvg-id="Euroleague - Baskonia Vitoria-Gasteiz vs. Panathinaikos BC" tvg-name="20:30 Euroleague : Baskonia Vitoria-Gasteiz vs. Panathinaikos BC - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 3 Premium Serbia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Eurocup - Buducnost vs Trento" tvg-name="20:00 Eurocup : Buducnost vs Trento - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 3 Crotaia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Euroleague - Baskonia Vitoria-Gasteiz vs. Panathinaikos BC" tvg-name="20:30 Euroleague : Baskonia Vitoria-Gasteiz vs. Panathinaikos BC - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports 4 Greece
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-634.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Champions League - Subotica vs Le Mans" tvg-name="20:00 Champions League : Subotica vs Le Mans - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 2 Premium Serbia
+#EXTINF:-1 tvg-id="Euroleague - Baskonia Vitoria-Gasteiz vs. Panathinaikos BC" tvg-name="20:30 Euroleague : Baskonia Vitoria-Gasteiz vs. Panathinaikos BC - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MAX Sport 3 Bulgaria
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-474.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Euroleague - Baskonia Vitoria-Gasteiz vs. Panathinaikos BC" tvg-name="20:30 Euroleague : Baskonia Vitoria-Gasteiz vs. Panathinaikos BC - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub HD Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Euroleague - Olimpia Milano vs. AS Monaco" tvg-name="20:30 Euroleague : Olimpia Milano vs. AS Monaco - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 304
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-22.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Euroleague - Olimpia Milano vs. AS Monaco" tvg-name="20:30 Euroleague : Olimpia Milano vs. AS Monaco - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Oneplay Sport 1 CZ
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1027.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Euroleague - Olimpia Milano vs. AS Monaco" tvg-name="20:30 Euroleague : Olimpia Milano vs. AS Monaco - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes 2 Spain
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-438.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Euroleague - Olimpia Milano vs. AS Monaco" tvg-name="20:30 Euroleague : Olimpia Milano vs. AS Monaco - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 2 Premium Serbia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Champions League - Trapani Shark vs. CB 1939 Canarias" tvg-name="20:30 Champions League : Trapani Shark vs. CB 1939 Canarias - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sport 5 CZ
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1025.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Euroleague - Olimpia Milano vs. AS Monaco" tvg-name="20:30 Euroleague : Olimpia Milano vs. AS Monaco - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports 6 Greece
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-636.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Campions League - Unicaja CB Malaga vs. Mersin Buyuksehir Belediyesi" tvg-name="20:30 Campions League : Unicaja CB Malaga vs. Mersin Buyuksehir Belediyesi - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sport 1 CZ
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1021.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Euroleague - Olimpia Milano vs. AS Monaco" tvg-name="20:30 Euroleague : Olimpia Milano vs. AS Monaco - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MAX Sport 1 Bulgaria
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="European North Basketball League - Brussels Basketball vs Sigal Prishtina" tvg-name="20:30 European North Basketball League : Brussels Basketball vs Sigal Prishtina - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 4 Greece
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-11.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Euroleague - Olimpia Milano vs. AS Monaco" tvg-name="20:30 Euroleague : Olimpia Milano vs. AS Monaco - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 3 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Eurocup - Basquet Manresa vs. Slask Wroclaw" tvg-name="20:45 Eurocup : Basquet Manresa vs. Slask Wroclaw - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 308
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-12.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Euroleague - KK Partizan Nis Belgrade vs. Anadolu Efes SK" tvg-name="20:30 Euroleague : KK Partizan Nis Belgrade vs. Anadolu Efes SK - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 302
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-23.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Eurocup - Basquet Manresa vs. Slask Wroclaw" tvg-name="20:45 Eurocup : Basquet Manresa vs. Slask Wroclaw - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport Poland
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Euroleague - KK Partizan Nis Belgrade vs. Anadolu Efes SK" tvg-name="20:30 Euroleague : KK Partizan Nis Belgrade vs. Anadolu Efes SK - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes 3 Spain
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-526.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Eurocup - Basquet Manresa vs. Slask Wroclaw" tvg-name="20:45 Eurocup : Basquet Manresa vs. Slask Wroclaw - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-436.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Euroleague - KK Partizan Nis Belgrade vs. Anadolu Efes SK" tvg-name="20:30 Euroleague : KK Partizan Nis Belgrade vs. Anadolu Efes SK - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Eurocup - Basquet Manresa vs. Slask Wroclaw" tvg-name="20:45 Eurocup : Basquet Manresa vs. Slask Wroclaw - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", STV3 Slovenia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-76.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Euroleague - KK Partizan Nis Belgrade vs. Anadolu Efes SK" tvg-name="20:30 Euroleague : KK Partizan Nis Belgrade vs. Anadolu Efes SK - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports 2 Greece
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-632.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Eurocup - Basquet Manresa vs. Slask Wroclaw" tvg-name="20:45 Eurocup : Basquet Manresa vs. Slask Wroclaw - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 4 Crotaia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Euroleague - KK Partizan Nis Belgrade vs. Anadolu Efes SK" tvg-name="20:30 Euroleague : KK Partizan Nis Belgrade vs. Anadolu Efes SK - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport Fight Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-105.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="TVF Women's Champions Cup - Fenerbahce Istanbul vs. Vakifbank SK" tvg-name="18:00 TVF Women's Champions Cup : Fenerbahce Istanbul vs. Vakifbank SK - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", TRT Sports Turkey
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-889.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Euroleague - KK Partizan Nis Belgrade vs. Anadolu Efes SK" tvg-name="20:30 Euroleague : KK Partizan Nis Belgrade vs. Anadolu Efes SK - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MAX Sport 2 Bulgaria
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Serbia Super Cup, Women - Železničar Lajkovac vs Tent Obrenovac" tvg-name="19:00 Serbia Super Cup, Women : Železničar Lajkovac vs Tent Obrenovac - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Sport 2 Serbia
+#EXTINF:-1 tvg-id="Euroleague - KK Partizan Nis Belgrade vs. Anadolu Efes SK" tvg-name="20:30 Euroleague : KK Partizan Nis Belgrade vs. Anadolu Efes SK - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 2 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Euroleague - KK Partizan Nis Belgrade vs. Anadolu Efes SK" tvg-name="20:30 Euroleague : KK Partizan Nis Belgrade vs. Anadolu Efes SK - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Live Israel
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Euroleague - Paris Basketball vs. Virtus Bologna" tvg-name="20:45 Euroleague : Paris Basketball vs. Virtus Bologna - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 305
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-24.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Euroleague - Paris Basketball vs. Virtus Bologna" tvg-name="20:45 Euroleague : Paris Basketball vs. Virtus Bologna - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes 4 Spain
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-527.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Euroleague - Paris Basketball vs. Virtus Bologna" tvg-name="20:45 Euroleague : Paris Basketball vs. Virtus Bologna - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 2 Serbia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-430.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Women's College Volleyball - Kentucky vs. Texas A&M" tvg-name="01:00 Women's College Volleyball : Kentucky vs. Texas A&M - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="NCAA Women's Volleyball", SEC Network USA
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-385.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Euroleague - Paris Basketball vs. Virtus Bologna" tvg-name="20:45 Euroleague : Paris Basketball vs. Virtus Bologna - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-637.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Women's College Volleyball - North Carolina State vs. Wake Forest" tvg-name="01:00 Women's College Volleyball : North Carolina State vs. Wake Forest - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="NCAA Women's Volleyball", ACC Network
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-664.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Euroleague - Real Madrid vs. ASVEL Lyon Villeurbanne" tvg-name="21:00 Euroleague : Real Madrid vs. ASVEL Lyon Villeurbanne - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 306
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-25.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Women's College Volleyball - UCLA at Minnesota" tvg-name="02:00 Women's College Volleyball : UCLA at Minnesota - 08/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="NCAA Women's Volleyball", Big Ten Network
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-397.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Euroleague - Real Madrid vs. ASVEL Lyon Villeurbanne" tvg-name="21:00 Euroleague : Real Madrid vs. ASVEL Lyon Villeurbanne - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-436.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Euroleague - Real Madrid vs. ASVEL Lyon Villeurbanne" tvg-name="21:00 Euroleague : Real Madrid vs. ASVEL Lyon Villeurbanne - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 3 Serbia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-431.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Euroleague - Real Madrid vs. ASVEL Lyon Villeurbanne" tvg-name="21:00 Euroleague : Real Madrid vs. ASVEL Lyon Villeurbanne - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MAX Sport 4 Bulgaria
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-475.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Euroleague - Real Madrid vs. ASVEL Lyon Villeurbanne" tvg-name="21:00 Euroleague : Real Madrid vs. ASVEL Lyon Villeurbanne - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports 5 Greece
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-635.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Euroleague - Real Madrid vs. ASVEL Lyon Villeurbanne" tvg-name="21:00 Euroleague : Real Madrid vs. ASVEL Lyon Villeurbanne - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 1 Croatia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Euroleague - Real Madrid vs. ASVEL Lyon Villeurbanne" tvg-name="21:00 Euroleague : Real Madrid vs. ASVEL Lyon Villeurbanne - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Orlen Liga Women - Volley Wroclaw vs. Nowy Dwor Mazowiecki" tvg-name="17:30 Orlen Liga Women : Volley Wroclaw vs. Nowy Dwor Mazowiecki - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="I. Liga - BKS Visla Bydgoszcz vs. Avia Swidnik" tvg-name="20:30 I. Liga : BKS Visla Bydgoszcz vs. Avia Swidnik - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Women's College Volleyball - Purdue vs. Ohio State" tvg-name="01:00 Women's College Volleyball : Purdue vs. Ohio State - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Fox Sports 1 USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-39.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Women's College Volleyball - Oregon vs. USC" tvg-name="03:00 Women's College Volleyball : Oregon vs. USC - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Fox Sports 1 USA
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-39.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Athletes Unlimited Pro Volleyball - Team Gold vs. Team Purple" tvg-name="03:00 Athletes Unlimited Pro Volleyball : Team Gold vs. Team Purple - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Marquee Sports Network
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-770.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Athletes Unlimited Pro Volleyball - Team Thompson vs. Team Hoffman" tvg-name="03:00 Athletes Unlimited Pro Volleyball : Team Thompson vs. Team Hoffman - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Marquee Sports Network
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-770.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Athletes Unlimited Pro Volleyball - Team Thompson vs. Team Hoffman" tvg-name="03:00 Athletes Unlimited Pro Volleyball : Team Thompson vs. Team Hoffman - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", FanDuel Sports Network South
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-903.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Athletes Unlimited Pro Volleyball - Team Thompson vs. Team Hoffman" tvg-name="03:00 Athletes Unlimited Pro Volleyball : Team Thompson vs. Team Hoffman - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", FanDuel Sports Network Southeast
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-904.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Athletes Unlimited Pro Volleyball - Team Thompson vs. Team Hoffman" tvg-name="03:00 Athletes Unlimited Pro Volleyball : Team Thompson vs. Team Hoffman - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", FanDuel Sports Network Sun
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-905.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Athletes Unlimited Pro Volleyball - Team Thompson vs. Team Hoffman" tvg-name="03:00 Athletes Unlimited Pro Volleyball : Team Thompson vs. Team Hoffman - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", FanDuel Sports Network Florida
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-892.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Athletes Unlimited Pro Volleyball - Team Thompson vs. Team Hoffman" tvg-name="03:00 Athletes Unlimited Pro Volleyball : Team Thompson vs. Team Hoffman - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", FanDuel Sports Network Ohio
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-899.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Athletes Unlimited Pro Volleyball - Team Thompson vs. Team Hoffman" tvg-name="03:00 Athletes Unlimited Pro Volleyball : Team Thompson vs. Team Hoffman - 09/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", FanDuel Sports Network Detroit
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-891.php&redirect_stream=true&api_password=Cuca1989!
 
