@@ -1,37 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - Dundalk vs Finn Harps" tvg-name="19:45 Ireland Republic - First Division : Dundalk vs Finn Harps - 10/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-157.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - Kerry vs Wexford" tvg-name="19:45 Ireland Republic - First Division : Kerry vs Wexford - 10/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-158.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - Treaty United vs Bray Wanderers" tvg-name="19:45 Ireland Republic - First Division : Treaty United vs Bray Wanderers - 10/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-159.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - UCD vs Athlone Town" tvg-name="19:45 Ireland Republic - First Division : UCD vs Athlone Town - 10/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-160.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - Longford Town vs Cobh Ramblers" tvg-name="19:45 Ireland Republic - First Division : Longford Town vs Cobh Ramblers - 10/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-161.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Shamrock Rovers vs Shelbourne" tvg-name="20:00 Ireland Republic - Premier Division : Shamrock Rovers vs Shelbourne - 10/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-162.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="World Cup Qualifying - Kazakhstan vs Liechtenstein" tvg-name="15:00 World Cup Qualifying : Kazakhstan vs Liechtenstein - 10/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Calcio IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Europe - Euro U-21 Qualifying - Italy U21 vs Sweden U21" tvg-name="17:15 Europe - Euro U-21 Qualifying : Italy U21 vs Sweden U21 - 10/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", RAI 2 IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-851.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Arezzo vs Gubbio" tvg-name="19:30 Italy - Serie C : Arezzo vs Gubbio - 10/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 251 IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-105.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Italy - Serie C - Bra vs Athletic Carpi" tvg-name="19:30 Italy - Serie C : Bra vs Athletic Carpi - 10/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SKY Go Italia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-106.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="World Cup Qualifying - Germany vs Luxembourg" tvg-name="19:45 World Cup Qualifying : Germany vs Luxembourg - 10/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Uno IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-461.php&redirect_stream=true&api_password=Cuca1989!
-
 #EXTINF:-1 tvg-id="Italy - Serie A (women) - Lazio vs Genoa" tvg-name="11:30 Italy - Serie A (women) : Lazio vs Genoa - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Zona IT
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=Cuca1989!
 
