@@ -1,55 +1,97 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Drogheda United vs Cork City" tvg-name="19:45 Ireland Republic - Premier Division : Drogheda United vs Cork City - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-179.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Italy - Serie A (women) - Sassuolo vs Como" tvg-name="11:30 Italy - Serie A (women) : Sassuolo vs Como - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-55.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Galway United vs Bohemians" tvg-name="19:45 Ireland Republic - Premier Division : Galway United vs Bohemians - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-180.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Italy - Serie A (women) - Genoa vs Ternana" tvg-name="11:30 Italy - Serie A (women) : Genoa vs Ternana - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-59.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Shelbourne vs Sligo Rovers" tvg-name="19:45 Ireland Republic - Premier Division : Shelbourne vs Sligo Rovers - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-181.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - St Patrick's vs Shamrock Rovers" tvg-name="19:45 Ireland Republic - Premier Division : St Patrick's vs Shamrock Rovers - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-182.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Waterford United vs Derry City" tvg-name="19:45 Ireland Republic - Premier Division : Waterford United vs Derry City - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-183.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - Athlone Town vs Longford Town" tvg-name="19:45 Ireland Republic - First Division : Athlone Town vs Longford Town - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-184.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - Bray Wanderers vs Kerry" tvg-name="19:45 Ireland Republic - First Division : Bray Wanderers vs Kerry - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-185.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - Cobh Ramblers vs Dundalk" tvg-name="19:45 Ireland Republic - First Division : Cobh Ramblers vs Dundalk - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-186.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - Finn Harps vs UCD" tvg-name="19:45 Ireland Republic - First Division : Finn Harps vs UCD - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-187.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Ireland Republic - First Division - Wexford vs Treaty United" tvg-name="19:45 Ireland Republic - First Division : Wexford vs Treaty United - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-188.php&redirect_stream=true&api_password=Cuca1989!
-
-#EXTINF:-1 tvg-id="Bundesliga 2 - Hannover 96 vs Schalke 04" tvg-name="17:30 Bundesliga 2 : Hannover 96 vs Schalke 04 - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Calcio IT
+#EXTINF:-1 tvg-id="England - Premier League - Nottingham Forest vs Chelsea" tvg-name="12:30 England - Premier League : Nottingham Forest vs Chelsea - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Calcio IT
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Italy - Serie B - Virtus Entella vs Sampdoria" tvg-name="19:30 Italy - Serie B : Virtus Entella vs Sampdoria - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-151.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Italy - Serie C - Renate vs Dolomiti Bellunesi" tvg-name="13:30 Italy - Serie C : Renate vs Dolomiti Bellunesi - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 256 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-207.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Italy - Serie C - Novara vs Union ArzignanoChiampo" tvg-name="19:30 Italy - Serie C : Novara vs Union ArzignanoChiampo - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SKY Go Italia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-152.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Italy - Serie C - Triestina vs Pergolettese" tvg-name="13:30 Italy - Serie C : Triestina vs Pergolettese - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 255 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-161.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Italy - Serie C - Sassari Torres vs Forlì" tvg-name="19:30 Italy - Serie C : Sassari Torres vs Forlì - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SKY Go Italia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-153.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Italy - Serie C - Livorno vs Sambenedettese" tvg-name="13:30 Italy - Serie C : Livorno vs Sambenedettese - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 251 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-163.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Italy - Serie C - Alcione vs Inter II" tvg-name="19:30 Italy - Serie C : Alcione vs Inter II - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SKY Go Italia
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-154.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Italy - Serie C - Sorrento vs Cosenza" tvg-name="13:30 Italy - Serie C : Sorrento vs Cosenza - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 254 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-162.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Italy - Serie C - Alcione vs Inter II" tvg-name="19:30 Italy - Serie C : Alcione vs Inter II - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Calcio IT
-https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=Cuca1989!
+#EXTINF:-1 tvg-id="Italy - Serie C - Virtus Casarano vs Foggia" tvg-name="13:30 Italy - Serie C : Virtus Casarano vs Foggia - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 253 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-213.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="Bundesliga - Union Berlin vs Borussia M'gladbach" tvg-name="19:30 Bundesliga : Union Berlin vs Borussia M'gladbach - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 254 IT
+#EXTINF:-1 tvg-id="Italy - Serie C - Crotone vs Monopoli" tvg-name="13:30 Italy - Serie C : Crotone vs Monopoli - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 252 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-164.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy - Serie A (women) - Fiorentina vs Milan" tvg-name="14:00 Italy - Serie A (women) : Fiorentina vs Milan - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-69.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Lecce vs Sassuolo" tvg-name="14:00 Italy - Serie A : Lecce vs Sassuolo - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Zona IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Pisa vs Hellas Verona" tvg-name="14:00 Italy - Serie A : Pisa vs Hellas Verona - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Zona 2 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-76.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Frosinone vs Monza" tvg-name="14:00 Italy - Serie B : Frosinone vs Monza - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-105.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Reggiana vs Bari 1908" tvg-name="14:00 Italy - Serie B : Reggiana vs Bari 1908 - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-106.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Mantova vs Südtirol" tvg-name="14:00 Italy - Serie B : Mantova vs Südtirol - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-107.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Pescara vs Carrarese" tvg-name="14:00 Italy - Serie B : Pescara vs Carrarese - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-108.php&redirect_stream=true&api_password=Cuca1989!
 
-#EXTINF:-1 tvg-id="France - Ligue 1 - PSG vs Strasbourg" tvg-name="19:45 France - Ligue 1 : PSG vs Strasbourg - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Arena IT
+#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Newcastle United" tvg-name="15:00 England - Premier League : Brighton & Hove Albion vs Newcastle United - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Calcio IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Juve Stabia vs Avellino" tvg-name="16:15 Italy - Serie B : Juve Stabia vs Avellino - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-160.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Ospitaletto vs Cittadella" tvg-name="16:30 Italy - Serie C : Ospitaletto vs Cittadella - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 252 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-164.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Gubbio vs Nuova Monterosi" tvg-name="16:30 Italy - Serie C : Gubbio vs Nuova Monterosi - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 253 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-213.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Pianese vs Bra" tvg-name="16:30 Italy - Serie C : Pianese vs Bra - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 255 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-161.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Latina vs Giugliano" tvg-name="16:30 Italy - Serie C : Latina vs Giugliano - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 254 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-162.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Torino vs Napoli" tvg-name="17:00 Italy - Serie A : Torino vs Napoli - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Zona IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-877.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Bundesliga - Bayern München vs Borussia Dortmund" tvg-name="17:30 Bundesliga : Bayern München vs Borussia Dortmund - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Calcio IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Spezia vs Cesena" tvg-name="18:30 Italy - Serie B : Spezia vs Cesena - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-77.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Roma vs Internazionale" tvg-name="19:45 Italy - Serie A : Roma vs Internazionale - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 251 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-163.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Roma vs Internazionale" tvg-name="19:45 Italy - Serie A : Roma vs Internazionale - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Calcio IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="France - Ligue 1 - Olympique Marseille vs Le Havre" tvg-name="20:05 France - Ligue 1 : Olympique Marseille vs Le Havre - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 252 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-164.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Aviva Premiership Rugby - Leicester Tigers vs Bath" tvg-name="15:00 Aviva Premiership Rugby : Leicester Tigers vs Bath - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", ITV 4 UK
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-353.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="United Rugby Championship - Zebre vs Stormers" tvg-name="19:45 United Rugby Championship : Zebre vs Stormers - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sport Arena IT
 https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-462.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Serie A Elite - Mogliano vs Rovigo" tvg-name="14:30 Serie A Elite : Mogliano vs Rovigo - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Rai Sport 1 Italy
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true&api_password=Cuca1989!
+
+#EXTINF:-1 tvg-id="Italy Supercoppa, Women - Volley Conegliano vs. Volley Monza" tvg-name="16:30 Italy Supercoppa, Women : Volley Conegliano vs. Volley Monza - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Rai 2 IT
+https://cucas2025-zigozago.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-851.php&redirect_stream=true&api_password=Cuca1989!
 
